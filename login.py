@@ -33,7 +33,7 @@ headers = {
 }
 
 data = { 'username' : '2017211661',
-         'password' : 'ilovemuxi',
+         'password' : '',
          'lt' : lt,
          'execution' : execution,
          '_eventId' : 'submit',
