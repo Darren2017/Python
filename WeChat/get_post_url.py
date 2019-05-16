@@ -4,7 +4,7 @@ import re
 import random
 import time
 
-def main():
+def get_post_url():
     idlist = ['microbiota-health']
     posts_url = []
 
@@ -73,7 +73,7 @@ def main():
                     'fakeid': fakeid,
                     'type': '9'
                 }
-                print('------------------------第',begin,'页-------------------------')
+                print('------------------------',begin,'-------------------------')
                 query_fakeid_response = requests.get(appmsg_url, cookies=cookies, headers=header, params=query_id_data)
                 time.sleep(random.randint(1,6))
                 fakeid_list = query_fakeid_response.json().get('app_msg_list')
@@ -82,10 +82,13 @@ def main():
                     print(item.get('title'))
                 num -= 1
                 begin+=5
+        except:
+            pass
         finally:
-            with open('post_url.txt', 'w+') as f:
-                f.write(json.dumps(posts_url))
+            # with open('post_url.txt', 'w+') as f:
+            #     f.write(json.dumps(posts_url))
+            return posts_url
 
 
 if __name__ == '__main__':
-    main()
+    get_post_url()

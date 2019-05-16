@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-
+from get_post_url import get_post_url
 header = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate, br',
@@ -22,23 +22,26 @@ def gethtmltext(url):
     except:
         return ""
 
-def fillfile(html, soup, url):
+def fillfile(html, soup, url, i):
     try:
-        with open(soup.find('h2', id="activity-name").get_text().split()[0] + '.txt', 'w+') as f:
+        with open(str(i) + "   " + soup.find('h2', id="activity-name").get_text().split()[0] + '.txt', 'w+') as f:
             f.write("标题：" + soup.find('h2', id="activity-name").get_text().lstrip() + '\n')
             f.write("作者：" + soup.find('span').get_text().lstrip() + '\n')
             f.write("内容：" + soup.find('div', id='js_content').get_text().lstrip() + '\n')
         print("标题：", soup.find('h2', id="activity-name").get_text().lstrip())
     except:
         pass
-def main():
-    with open('../post_url.txt', 'r') as f:
-        urls = f.read()
-    urls = json.loads(urls)
+def get_post():
+    # with open('../post_url.txt', 'r') as f:
+    #     urls = f.read()
+    # urls = json.loads(urls)
+    i = 1
+    urls = get_post_url()
     for url in urls:
         html = gethtmltext(url)
         soup = BeautifulSoup(html, "html5lib")
-        fillfile(html, soup, url)
+        fillfile(html, soup, url, i)
+        i += 1
 
 if __name__ == '__main__':
-    main()
+    get_post()

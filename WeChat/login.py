@@ -17,7 +17,7 @@ def main():
     browser.find_element_by_name("password").send_keys(PASSWORD)
     browser.find_element_by_class_name('frm_checkbox_label').click()
     browser.find_element_by_class_name('btn_login').click()
-    time.sleep(15)
+    time.sleep(40)
 
     browser.get('https://mp.weixin.qq.com')
     cookies = browser.get_cookies()
@@ -30,7 +30,7 @@ def main():
 
     with open('cookie.txt', 'w+') as f:
         f.write(cookies_json)
-
+    time.sleep(5)
     browser.close()
 
 if __name__ == '__main__':

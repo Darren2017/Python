@@ -32,8 +32,8 @@ headers = {
     'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
 }
 
-data = { 'username' : '2017211661',
-         'password' : '',
+data = { 'username' : '2018110052',
+         'password' : 'TYNlove199601n',
          'lt' : lt,
          'execution' : execution,
          '_eventId' : 'submit',
@@ -50,3 +50,4 @@ print ('Pragma : ', response.headers.get('pragma'))
 print ('Cache-Control : ', response.headers.get('cache-control'))
 print ('Date : ', response.headers.get('date'))
 print ('Content-Type : ', response.headers.get('content-type'))
+# print(response.headers.get('set-cookie') is None)
