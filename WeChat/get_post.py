@@ -29,6 +29,7 @@ def fillfile(html, soup, url, i):
             f.write("作者：" + soup.find('span').get_text().lstrip() + '\n')
             f.write("内容：" + soup.find('div', id='js_content').get_text().lstrip() + '\n')
         print("标题：", soup.find('h2', id="activity-name").get_text().lstrip())
+        soup.find()
     except:
         pass
 def get_post():

@@ -1,0 +1,1674 @@
+Condensin complex subunit 3 (CAPG homolog)  (p100) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Uncharacterized protein C14orf93 homolog
+tRNA 5-carboxymethoxyuridine methyltransferase, EC 2.1.1.- (cmo5U methyltransferase) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+Carnitine monooxygenase oxygenase subunit, EC 1.14.13.239 (Carnitine monooxygenase alpha subunit) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Bicarbonate-binding protein CmpA
+ATP synthase subunit b, cyanelle (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase cnrN, EC 3.1.3.67
+Autolysin, EC 3.2.1.- (Beta-glycosidase)  (Peptidoglycan hydrolase) 
+N-acetyl-gamma-glutamyl-phosphate reductase, AGPR, EC 1.2.1.38 (N-acetyl-glutamate semialdehyde dehydrogenase, NAGSA dehydrogenase) 
+Anhydro-N-acetylmuramic acid kinase, EC 2.7.1.170 (AnhMurNAc kinase) 
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+Ghilanten
+Probable protein arginine N-methyltransferase 6.1, EC 2.1.1.-
+Cytosolic 10-formyltetrahydrofolate dehydrogenase, 10-FTHFDH, FDH, EC 1.5.1.6 (Aldehyde dehydrogenase family 1 member L1) 
+Protein crossbronx-like
+Phospho-2-dehydro-3-deoxyheptonate aldolase AMT16, EC 2.5.1.54 (AM-toxin biosynthesis protein 16) 
+Aconitase AMT8-2, EC 4.2.1.- (AM-toxin biosynthesis protein 8-2) 
+Protein arginine N-methyltransferase 6, EC 2.1.1.319 (Histone-arginine N-methyltransferase PRMT6) 
+AP-3 complex subunit sigma-2 (AP-3 complex subunit sigma-3B)  (Adaptor-related protein complex 3 subunit sigma-2)  (Sigma-3B-adaptin, Sigma3B-adaptin)  (Sigma-adaptin 3b) 
+Protein ApaG
+Transcription factor AP-2-delta, AP-2-delta
+Ankyrin repeat domain-containing protein 36B (CLL-associated antigen KW-1) 
+Maltogenic alpha-amylase, EC 3.2.1.133 (Glucan 1,4-alpha-maltohydrolase) 
+Protein arginine N-methyltransferase 7, EC 2.1.1.321 (Histone-arginine N-methyltransferase PRMT7)  ([Myelin basic protein]-arginine N-methyltransferase PRMT7) 
+Angiogenin, EC 3.1.27.- (Ribonuclease 5, RNase 5) 
+D-allose import ATP-binding protein AlsA, EC 7.5.2.8
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, BPG-independent PGAM, Phosphoglyceromutase, aPGAM, EC 5.4.2.12
+Alanine racemase, EC 5.1.1.1
+Argininosuccinate synthase, EC 6.3.4.5 (Citrulline--aspartate ligase) 
+Artemin
+Cyclic AMP-dependent transcription factor ATF-2, cAMP-dependent transcription factor ATF-2, EC 2.3.1.48 (Activating transcription factor 2) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Aspartate ammonia-lyase, Aspartase, EC 4.3.1.1
+Histone chaperone asf1 (Anti-silencing function protein 1 homolog) 
+Autophagy-related protein 3 (Autophagy-related E2-like conjugation enzyme ATG3) 
+Ankyrin repeat and SOCS box protein 4, ASB-4
+ATP synthase subunit epsilon, mitochondrial, ATPase subunit epsilon (ATP synthase F1 subunit epsilon) 
+Aspartic proteinase-like protein 2, EC 3.4.23.-
+ASTRA-associated protein 1
+Succinylornithine transaminase, EC 2.6.1.81 (Succinylornithine aminotransferase) 
+Sodium/potassium-transporting ATPase subunit beta-233 (Sodium/potassium-dependent ATPase subunit beta-233) 
+Autophagy-related protein 13
+N-succinylglutamate 5-semialdehyde dehydrogenase, EC 1.2.1.71 (Succinylglutamic semialdehyde dehydrogenase, SGSD) 
+Autophagy protein 5
+Autophagy-related protein 11 (Cytoplasm to vacuole targeting protein 9) 
+Autophagy-related protein 8 (Autophagy-related ubiquitin-like modifier ATG8) 
+Autophagy-related protein 2
+Arrestin-related trafficking adapter 5
+RING-H2 finger protein ATL7, EC 2.3.2.27 (RING-type E3 ubiquitin transferase ATL7) 
+BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE)  (BRCA1/BRCA2-containing complex subunit 45)  (Brain and reproductive organ-expressed protein) 
+Outer membrane protein assembly factor BamB
+Probable sodium/metabolite cotransporter BASS2, chloroplastic (Bile acid-sodium symporter family protein 2) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Outer membrane protein assembly factor BamE
+CTD nuclear envelope phosphatase 1 homolog, CTDNEP1, EC 3.1.3.16 (Serine/threonine-protein phosphatase dullard homolog)  (Small C-terminal domain phosphatase-like phosphatase 2) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Beta-1,4-galactosyltransferase 6, Beta-1,4-GalTase 6, Beta4Gal-T6, b4Gal-T6, EC 2.4.1.- (Glucosylceramide beta-1,4-galactosyltransferase, EC 2.4.1.274)  (Lactosylceramide synthase, LacCer synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 6)  (UDP-Gal:glucosylceramide beta-1,4-galactosyltransferase)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 6) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Barley B recombinant-like protein B, BBR-like protein B (GAGA-binding transcriptional activator BBR-B) 
+Spindle pole component BBP1 (BFR1-binding protein 1) 
+6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase, 6-OCH-CoA hydrolase, EC 3.7.1.21 (6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase) 
+BAG family molecular chaperone regulator 1B, BAG-1B
+Collagen alpha-2(V) chain
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Outer membrane protein assembly factor BamC
+Beta-1,3-galactosyltransferase 1, Beta-1,3-GalTase 1, Beta3Gal-T1, Beta3GalT1, EC 2.4.1.86 (UDP-galactose:beta-N-acetyl-glucosamine-beta-1,3-galactosyltransferase 1) 
+CCR4-NOT transcription complex subunit 2 (CCR4-associated factor 2) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Vacuolar amino acid transporter 7
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Acid extracellular protease, EC 3.4.23.-
+Histone-lysine N-methyltransferase ATXR4, EC 2.1.1.43 (Protein SET DOMAIN GROUP 38)  (Trithorax-related protein 4, TRX-related protein 4) 
+Avirulence protein AvrXa10 (TAL effector protein AvrXa10) 
+Axonemal 84 kDa protein (Ci-AXP83.9)  (p83.9) 
+Bicarbonate transport ATP-binding protein CmpC, EC 3.6.3.-
+ATP synthase subunit b' (ATP synthase F(0) sector subunit b')  (ATPase subunit II)  (F-type ATPase subunit b', F-ATPase subunit b') 
+Bcl-2-like protein 11, Bcl2-L-11 (Bcl-2-related ovarian death protein)  (Bcl2-interacting mediator of cell death) 
+Metal transporter CNNM4 (Ancient conserved domain-containing protein 4)  (Cyclin-M4) 
+Brevinin-1MT1
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+CCR4-NOT transcription complex subunit 10-B
+Activin receptor type-2B, EC 2.7.11.30 (Activin receptor type IIB, ACTR-IIB) 
+Axin-1 (Axis inhibition protein 1, hAxin) 
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2, EC 2.1.1.296 (Cap methyltransferase 2)  (Cap2 2'O-ribose methyltransferase 2, MTr2)  (FtsJ methyltransferase domain-containing protein 1) 
+A disintegrin and metalloproteinase with thrombospondin motifs 13, ADAM-TS 13, ADAM-TS13, ADAMTS-13, EC 3.4.24.87 (von Willebrand factor-cleaving protease, vWF-CP, vWF-cleaving protease) 
+Multifunctional dioxygenase ausE, EC 1.14.11.- (Austinol synthesis protein E) 
+Phosphopantetheine adenylyltransferase, PPAT, EC 2.7.7.3 (Coenzyme A biosynthesis protein 4)  (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Carnitine monooxygenase reductase subunit, EC 1.14.13.239 (Carnitine monooxygenase beta subunit) 
+ATP synthase subunit O, mitochondrial (Oligomycin sensitivity conferral protein, OSCP) 
+Aurein-3.1 [Cleaved into: Aurein-3.1.1; Aurein-3.1.2]
+Cannabinoid receptor 2, CB-2, CB2, rCB2
+Auxin transporter protein 1 (Auxin influx carrier protein 1)  (Polar auxin transport inhibitor-resistant protein 1) 
+Protein AV2
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Bifunctional chorismate mutase/prephenate dehydratase (Chorismate mutase-prephenate dehydratase)  (P-protein)  [Includes: Chorismate mutase, CM, EC 5.4.99.5; Prephenate dehydratase, PDT, EC 4.2.1.51]
+Aurora kinase A and ninein-interacting protein, AIBp
+ATP synthase subunit 5, mitochondrial, ATP synthase chain 5 (Oligomycin sensitivity conferral protein, OSCP) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+RxLR effector protein Avh241 (Avirulence homolog protein 241) 
+ATP synthase subunit b' (ATP synthase F(0) sector subunit b')  (ATPase subunit II)  (F-type ATPase subunit b', F-ATPase subunit b') 
+Protein V2
+N-acetyl-gamma-glutamyl-phosphate reductase, AGPR, EC 1.2.1.38 (N-acetyl-glutamate semialdehyde dehydrogenase, NAGSA dehydrogenase) 
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+ADP-ribosylation factor 4
+L-arabinose isomerase, EC 5.3.1.4
+Protein ApaG
+Arginine repressor
+Alpha-2-macroglobulin receptor-associated protein, Alpha-2-MRAP (Low density lipoprotein receptor-related protein-associated protein 1, RAP) 
+Ankyrin repeat and MYND domain-containing protein 2
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+AP-2 complex subunit alpha (Alpha-adaptin) 
+Arabinose import ATP-binding protein AraG 2, EC 7.5.2.12
+Angiogenin-1, EC 3.1.27.-
+Acyl-protein thioesterase 1, EC 3.1.2.-
+Acetylglutamate kinase, EC 2.7.2.8 (N-acetyl-L-glutamate 5-phosphotransferase)  (NAG kinase, NAGK) 
+Probable UDP-arabinose 4-epimerase 3, EC 5.1.3.5 (OsUEL-3)  (UDP-D-xylose 4-epimerase 3)  (UDP-galactose 4-epimerase-like protein 3) 
+Apolipoprotein D, Apo-D, ApoD
+Arginine biosynthesis bifunctional protein ArgJ [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase, EC 2.3.1.35 (Ornithine acetyltransferase, OATase)  (Ornithine transacetylase) ; Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGSase) ]
+Arginine deiminase, ADI, EC 3.5.3.6 (Arginine dihydrolase, AD) 
+Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGS, NAGS) 
+Actin-1
+Acetate kinase, EC 2.7.2.1 (Acetokinase) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+Activin receptor type-1C, EC 2.7.11.30 (Activin receptor type IC, ACTR-IC)  (Activin receptor-like kinase 7, ALK-7) 
+Iron-regulated transcriptional activator AFT2 (Activator of iron transcription protein 2) 
+Actin-related protein T1
+Antifungal protein 5 (CW-5) 
+2-amino-3-carboxymuconate-6-semialdehyde decarboxylase, EC 4.1.1.45 (Picolinate carboxylase) 
+Cation/acetate symporter ActP (Acetate permease)  (Acetate transporter ActP) 
+Acetylcholine-gated chloride channel subunit acc-2
+Adenine deaminase 3, Adenase 3, Adenine aminase 3, EC 3.5.4.2
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Acylphosphatase, EC 3.6.1.7 (Acylphosphate phosphohydrolase) 
+Acetyl-coenzyme A synthetase, AcCoA synthetase, Acs, EC 6.2.1.1 (Acetate--CoA ligase)  (Acyl-activating enzyme) 
+Adenine deaminase 2, Adenase 2, Adenine aminase 2, EC 3.5.4.2
+Cysteine proteinase ACP1, EC 3.4.22.-
+Beta-1 adrenergic receptor (Beta-1 adrenoreceptor, Beta-1 adrenoceptor) 
+Calcium-regulated actin-bundling protein (34 kDa actin-binding protein) 
+Acylphosphatase-1, EC 3.6.1.7 (Acylphosphatase, erythrocyte isozyme)  (Acylphosphatase, organ-common type isozyme)  (Acylphosphate phosphohydrolase 1) 
+Alpha-2B adrenergic receptor (Alpha-2B adrenoreceptor, Alpha-2B adrenoceptor, Alpha-2BAR) 
+Alcohol dehydrogenase 1, EC 1.1.1.1
+Transcription activator of gluconeogenesis acuK
+Acyl carrier protein, ACP
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 1 (BTB/POZ domain-containing protein KCTD13) 
+Beta-1,4-galactosyltransferase 5, Beta-1,4-GalTase 5, Beta4Gal-T5, b4Gal-T5, EC 2.4.1.- (Beta-1,4-GalT II)  (Glucosylceramide beta-1,4-galactosyltransferase, EC 2.4.1.274)  (Lactosylceramide synthase, LacCer synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 5)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 5) 
+Collagen alpha-2(VI) chain
+Branched-chain-amino-acid aminotransferase-like protein 2
+3-dehydro-bile acid delta(4,6)-reductase, EC 1.3.1.114
+Spindle pole component BBP1
+Beta-1,3-galactosyltransferase 2, Beta-1,3-GalTase 2, Beta3Gal-T2, Beta3GalT2, EC 2.4.1.86 (UDP-galactose:2-acetamido-2-deoxy-D-glucose 3beta-galactosyltransferase 2) 
+Outer membrane protein assembly factor BamA
+BRISC and BRCA1-A complex member 1 (Mediator of RAP80 interactions and targeting subunit of 40 kDa)  (New component of the BRCA1-A complex) 
+Brain-specific angiogenesis inhibitor 1-associated protein 2, BAI-associated protein 2, BAI1-associated protein 2, Protein BAP2 (Fas ligand-associated factor 3, FLAF3)  (Insulin receptor substrate p53/p58, IRS-58, IRSp53/58)  (Insulin receptor substrate protein of 53 kDa, IRSp53, Insulin receptor substrate p53) 
+Beta-1,3-galactosyltransferase 1, Beta-1,3-GalTase 1, Beta3Gal-T1, Beta3GalT1, EC 2.4.1.86 (UDP-galactose:beta-N-acetyl-glucosamine-beta-1,3-galactosyltransferase 1) 
+BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE)  (BRCA1/BRCA2-containing complex subunit 45)  (Brain and reproductive organ-expressed protein) 
+BAI1-associated protein 3, BAP3 (Brain-specific angiogenesis inhibitor I-associated protein 3, Baiap3) 
+Protein BANP (BEN domain-containing protein 1)  (Btg3-associated nuclear protein)  (Scaffold/matrix-associated region-1-binding protein) 
+Beta-secretase 2, EC 3.4.23.45 (Aspartyl protease 1, ASP1, Asp 1)  (Beta-site amyloid precursor protein cleaving enzyme 2, Beta-site APP cleaving enzyme 2)  (Memapsin-1)  (Membrane-associated aspartic protease 1)  (Theta-secretase) 
+Probable beta-1,3-galactosyltransferase 1, EC 2.4.1.-
+BAG family molecular chaperone regulator 5, BAG-5 (Bcl-2-associated athanogene 5) 
+Sodium/pyruvate cotransporter BASS2, chloroplastic (Bile acid transporter 1)  (Bile acid-sodium symporter family protein 2) 
+BAG family molecular chaperone regulator 1A, BAG-1A
+Brain-specific angiogenesis inhibitor 1-associated protein 2, BAI-associated protein 2, BAI1-associated protein 2 (Insulin receptor substrate protein of 53 kDa, IRSp53, Insulin receptor substrate p53)  (Insulin receptor tyrosine kinase 53 kDa substrate) 
+Berberine bridge enzyme-like 17, AtBBE-like 17, EC 1.1.1.-
+Berberine bridge enzyme-like 21, AtBBE-like 21, EC 1.1.1.-
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Outer membrane protein assembly factor BamC
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical, EC 3.6.1.41 (Ap4A hydrolase)  (Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase)  (Diadenosine tetraphosphatase) 
+Apolipoprotein M, Apo-M, ApoM
+Apolipoprotein C-I, Apo-CI, ApoC-I (Apolipoprotein C1)  [Cleaved into: Truncated apolipoprotein C-I]
+Apolipoprotein E, Apo-E
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+HTH-type transcriptional regulator ArgP
+L-arabinose isomerase, EC 5.3.1.4
+Proteasome-associated ATPase (AAA ATPase forming ring-shaped complexes, ARC)  (Proteasomal ATPase) 
+Auxin response factor 22
+Arginine repressor
+Protein APCDD1 (Adenomatosis polyposis coli down-regulated 1 protein homolog)  (Protein primglo, xPgo) 
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+Sterol O-acyltransferase 2, EC 2.3.1.26 (Sterol-ester synthase 2) 
+Hydroxymethylglutaryl-CoA synthase-like protein AKT4-1, EC 2.3.3.- (AK-toxin biosynthesis protein 4-1) 
+Acetylglutamate kinase, EC 2.7.2.8 (N-acetyl-L-glutamate 5-phosphotransferase)  (NAG kinase, NAGK) 
+Carbamate kinase, EC 2.7.2.2
+ADP-ribosylation factor
+Arginine deiminase, ADI, EC 3.5.3.6 (Arginine dihydrolase, AD) 
+Uncharacterized membrane protein ArfB
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Cyclic nucleotide-gated ion channel 18 (Cyclic nucleotide- and calmodulin-regulated ion channel 18) 
+Basic leucine zipper transcriptional factor ATF-like (B-cell-activating transcription factor, B-ATF)  (SF-HT-activated gene 2 protein, SFA-2) 
+Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma, GMP-PDE gamma, EC 3.1.4.35
+Sensory rhodopsin I, HmSRI
+Beta-1,4-glucuronyltransferase 1, EC 2.4.1.- (I-beta-1,3-N-acetylglucosaminyltransferase)  (N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase)  (Poly-N-acetyllactosamine extension enzyme)  (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1) 
+BTB and MATH domain-containing protein 42
+Tyrosine-protein kinase BAZ1B, EC 2.7.10.2 (Bromodomain adjacent to zinc finger domain protein 1B)  (Williams syndrome transcription factor)  (Williams-Beuren syndrome chromosomal region 10 protein)  (Williams-Beuren syndrome chromosomal region 9 protein)  (hWALp2) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Beta-1,6-galactosyltransferase GALT31A, EC 2.4.1.- (Beta-1,3-galactosyltransferase 6)  (GT31 family galactosyltransferase 1, AtGALT31A) 
+Protein bax
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase, EC 1.3.1.58 (Biphenyl-2,3-dihydro-2,3-diol dehydrogenase) 
+Mitochondrial carrier protein CoAc1 (AtCoAc1)  (Mitochondrial coenzyme A transporter CoAc1) 
+Bacteriorhodopsin-I
+Probable beta-1,3-galactosyltransferase 3, EC 2.4.1.-
+HTH-type transcriptional regulator BbuR
+Beta-1,3-galactosyltransferase 5, Beta-1,3-GalTase 5, Beta3Gal-T5, Beta3GalT5, b3Gal-T5, EC 2.4.1.- (Beta-3-Gx-T5)  (UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase 5)  (UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase 5) 
+Bardet-Biedl syndrome 1 protein homolog
+Beta-1,4-galactosyltransferase 4, Beta-1,4-GalTase 4, Beta4Gal-T4, b4Gal-T4, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Lactotriaosylceramide beta-1,4-galactosyltransferase, EC 2.4.1.275)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 4)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 4) 
+CTD nuclear envelope phosphatase 1, EC 3.1.3.16 (Serine/threonine-protein phosphatase dullard) 
+Hydroxyproline O-galactosyltransferase HPGT3, EC 2.4.1.- (Beta-1,3-galactosyltransferase 9) 
+ATP-dependent Clp protease ATP-binding subunit ClpX 1
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit beta, plastid, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP-dependent Clp protease adapter protein ClpS
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ALK and LTK ligand 2 (Augmentor alpha, AUG-alpha)  (Protein FAM150B) 
+Amyloid-beta A4 precursor protein-binding family A member 2 (Adapter protein X11beta)  (Neuron-specific X11L protein)  (Neuronal Munc18-1-interacting protein 2, Mint-2) 
+N-acetyl-gamma-glutamyl-phosphate reductase, AGPR, EC 1.2.1.38 (N-acetyl-glutamate semialdehyde dehydrogenase, NAGSA dehydrogenase) 
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+Two-component response regulator-like APRR1 (ABI3-interacting protein 1)  (Pseudo-response regulator 1)  (Timing of CAB expression 1) 
+Probable arabinosyltransferase ARAD1, EC 2.4.2.- (Arabinan alpha-1,5-arabinosyltransferase)  (L-Arabinosyltransferase)  (Protein ARABINAN DEFICIENT 1) 
+ADP-ribosylation factor 6
+ADP-ribosylation factor 4
+Atrial natriuretic peptide receptor 2, EC 4.6.1.2 (Atrial natriuretic peptide receptor type B, ANP-B, ANPR-B, NPR-B)  (Guanylate cyclase B, GC-B) 
+Protein ApaG
+Aliphatic amidase, EC 3.5.1.4 (Acylamide amidohydrolase) 
+Acetylglutamate kinase, EC 2.7.2.8 (N-acetyl-L-glutamate 5-phosphotransferase)  (NAG kinase, NAGK) 
+Alpha-amylase isozyme 2A, EC 3.2.1.1 (1,4-alpha-D-glucan glucanohydrolase)  (Alpha-amylase isozyme C2) 
+AP-2 complex subunit mu (Clathrin assembly protein complex 2 mu medium chain)  (Clathrin coat-associated protein AP50)  (Mu2-adaptin)  (Plasma membrane adaptor AP-2 50 kDa protein)  (Probable clathrin coat assembly protein AP50) 
+Arabinose import ATP-binding protein AraG, EC 7.5.2.12
+Oligopeptide transport ATP-binding protein AppD
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, BPG-independent PGAM, Phosphoglyceromutase, aPGAM, EC 5.4.2.12
+Ammonium transporter 2
+Gamma-secretase subunit Aph-1 (Presenilin-stabilization factor) 
+Boletus edulis lectin, BEL
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Outer membrane protein assembly factor BamE
+Mating-type pheromone BBP1(2)
+HTH-type transcriptional regulator BetI
+Balbiani ring protein 2 (Giant secretory protein I-B, GSP-IB) 
+Large proline-rich protein BAG6 (BCL2-associated athanogene 6)  (HLA-B-associated transcript 3) 
+Bile acid-CoA transferase, EC 2.8.3.25 (Bile acid-coenzyme A transferase)  (Bile acid-inducible operon protein F) 
+B-box zinc finger protein 22 (Protein DOUBLE B-BOX 3)  (Protein LIGHT-REGULATED ZINC FINGER PROTEIN 1)  (Protein SALT TOLERANCE HOMOLOG 3) 
+Ubiquitin carboxyl-terminal hydrolase BAP1, EC 3.4.19.12 (BRCA1-associated protein 1)  (Ubiquitin C-terminal hydrolase X4, UCH-X4) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Probable beta-eliminating lyase, EC 4.1.99.-
+BAG family molecular chaperone regulator 5, BAG-5 (Bcl-2-associated athanogene 5) 
+Bile acid-CoA:amino acid N-acyltransferase, BACAT, BAT, EC 2.3.1.65 (Glycine N-choloyltransferase)  (Long-chain fatty-acyl-CoA hydrolase, EC 3.1.2.2) 
+Brain-enriched guanylate kinase-associated protein
+Outer membrane protein assembly factor BamA (80 kDa D15 antigen, D-15-Ag)  (Outer membrane protein D15)  (Protective surface antigen D15) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Centrobin (Centrosomal BRCA2-interacting protein)  (LYST-interacting protein 8) 
+Outer membrane protein assembly factor BamC
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+CCR4-NOT transcription complex subunit 7, EC 3.1.13.4 (CCR4-associated factor 1, CAF-1) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Conotoxin Cal1.2
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Protein cornichon homolog 4, CNIH-4 (Cornichon family AMPA receptor auxiliary protein 4) 
+Protein canopy homolog 4 (Protein associated with Tlr4) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Acetyltransferase aurG, EC 2.3.1.- (Aurovertin biosynthesis cluster protein G) 
+Lipocalin Cav p 3.0101 (allergen Cav p 3.0101) 
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+Amino acid transporter AVT1H, AtAvt1H
+Avenin-like a1 (LMW-gliadin 2482, LMGli2482, TaAvlike-a1) 
+Avenin-like b8
+CRISPR system CMR subunit Cmr7 1
+Avenacosidase 2, EC 3.2.1.188 (26-desgluco-avenacosidase 2)  (Protein As-Glu2) 
+CRISPR system Cmr subunit Cmr1-1 (CRISPR type III-B/RAMP module RAMP protein Cmr1-1) 
+Avenin-3 (Prolamin) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Cytochrome P450 monooxygenase ATR2, EC 1.-.-.- (Core atranone cluster (CAC) protein 2) 
+Attacin-E (Immune protein P5)  [Cleaved into: Attacin-F]
+D-altritol 5-dehydrogenase, EC 1.1.1.407
+N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2, EC 2.4.1.149 (Beta-1,3-N-acetylglucosaminyltransferase 1, BGnT-1, Beta-1,3-Gn-T1, Beta3Gn-T1)  (Beta-1,3-galactosyltransferase 7, Beta-1,3-GalTase 7, Beta3Gal-T7, Beta3GalT7, b3Gal-T7)  (Beta-3-Gx-T7)  (UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase 7)  (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2, BGnT-2, Beta-1,3-Gn-T2, Beta-1,3-N-acetylglucosaminyltransferase 2, Beta3Gn-T2)  (UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase 7) 
+Ataxin-2-like protein
+Anhydro-N-acetylmuramic acid kinase, EC 2.7.1.170 (AnhMurNAc kinase) 
+Alkane 1-monooxygenase, EC 1.14.15.3 (Alkane hydroxylase, AHs)  (Terminal alkane hydroxylase) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+Agmatine deiminase, EC 3.5.3.12 (Agmatine iminohydrolase) 
+Putative aldehyde oxidase-like protein
+36 kDa antigen
+Altered inheritance of mitochondria protein 41, mitochondrial
+Androgen receptor (Dihydrotestosterone receptor)  (Nuclear receptor subfamily 3 group C member 4) 
+UDP-galactose-lipid carrier transferase, EC 2.-.-.-
+Aldehyde dehydrogenase, mitochondrial, EC 1.2.1.3 (ALDH class 2)  (ALDH-E2)  (ALDHI) 
+Aryl-hydrocarbon-interacting protein-like 1
+Annexin D4 (AnnAt4) 
+Putative ABC transporter permease protein AmyC
+Adhesion G-protein coupled receptor G6 (G-protein coupled receptor 126)  [Cleaved into: ADGRG6 N-terminal fragment, ADGRG6-NTF; ADGRG6 C-terminal fragment, ADGRG6-CTF]
+Probable alcohol dehydrogenase adh, EC 1.1.1.1
+Ureidoglycolate lyase, EC 4.3.2.3 (Ureidoglycolatase) 
+AP2-like ethylene-responsive transcription factor AIL1 (Protein AINTEGUMENTA-LIKE 1) 
+Putative arrestin-related trafficking adapter C2D10.04
+Putative amidase AmiC, EC 3.5.1.4
+Probable cytosol aminopeptidase, EC 3.4.11.1 (Leucine aminopeptidase, LAP, EC 3.4.11.10)  (Leucyl aminopeptidase) 
+Alanine racemase, EC 5.1.1.1
+Andropin
+Annexin A1 (Annexin I)  (Annexin-1)  (Calpactin II)  (Calpactin-2)  (Chromobindin-9)  (Lipocortin I)  (Phospholipase A2 inhibitory protein)  (p35) 
+Cyclic nucleotide-gated cation channel
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Protein cornichon
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit 4, mitochondrial
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+Calponin-3 (Calponin, acidic isoform) 
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+Cyclic nucleotide-gated potassium channel RHE_CH03180
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Archaetidylinositol phosphate synthase, AIP synthase, EC 2.7.8.39
+L-alanine exporter AlaE
+Alanine racemase, biosynthetic, EC 5.1.1.1
+Alpha-galactosidase 3, EC 3.2.1.22 (Alpha-D-galactoside galactohydrolase 3)  (Melibiase 3) 
+Palmitoyltransferase akr1, EC 2.3.1.225 (Ankyrin repeat-containing protein akr1) 
+Acyl-CoA synthetase family member 2, mitochondrial, EC 6.2.1.-
+Palmitoyltransferase AKR1, EC 2.3.1.225 (Ankyrin repeat-containing protein AKR1) 
+Alpha-acetolactate decarboxylase, EC 4.1.1.5
+Sodium/proton-dependent alanine carrier protein
+Probable aldehyde oxidase 4, AO-4, EC 1.2.3.1
+Alpha-(1->3)-arabinofuranosyltransferase, EC 2.4.2.47 (Arabinofuranan 3-O-arabinosyltransferase)  (Arabinofuranosyltransferase C) 
+Actin-6
+Altered inheritance of mitochondria protein 18, mitochondrial
+Benzaldehyde dehydrogenase YfmT, EC 1.2.1.28 (Vanillin dehydrogenase, EC 1.2.1.67) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Probable fructose-bisphosphate aldolase class 1, EC 4.1.2.13 (Fructose-bisphosphate aldolase class I, FBP aldolase) 
+Fructose-bisphosphate aldolase class 2, FBP aldolase, FBPA, EC 4.1.2.13 (Fructose-1,6-bisphosphate aldolase)  (Fructose-bisphosphate aldolase class II) 
+Adenine deaminase, ADE, EC 3.5.4.2 (Adenine aminohydrolase, AAH) 
+N-glycosylase/DNA lyase (8-oxoguanine DNA glycosylase, EC 3.2.2.-)  (AGOG)  (DNA-(apurinic or apyrimidinic site) lyase, AP lyase, EC 4.2.99.18) 
+Actin-3
+Probable phospholipid-transporting ATPase 7, AtALA7, EC 7.6.2.1 (Aminophospholipid flippase 7) 
+Androglobin (Calpain-7-like protein) 
+Probable cytosol aminopeptidase, EC 3.4.11.1 (Leucine aminopeptidase, LAP, EC 3.4.11.10)  (Leucyl aminopeptidase) 
+Alanine racemase, EC 5.1.1.1
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+Protein CNGC15b (Cyclic nucleotide-gated ion channel protein 15 b) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Bardet-Biedl syndrome 10 protein homolog
+Bcl2-associated agonist of cell death, BAD (Bcl-2-binding component 6)  (Bcl-2-like protein 8, Bcl2-L-8)  (Bcl-xL/Bcl-2-associated death promoter)  (Bcl2 antagonist of cell death) 
+Large proline-rich protein BAG6 (BCL2-associated athanogene 6)  (HLA-B-associated transcript 3) 
+BBSome-interacting protein 1 (BBSome-interacting protein of 10 kDa) 
+Vitamin B12 transport ATP-binding protein BacA
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3 (BTB/POZ domain-containing protein KCTD10) 
+Cyclin N-terminal domain-containing protein 1
+Dihydroanticapsin 7-dehydrogenase, EC 1.1.1.385 (Bacilysin biosynthesis oxidoreductase BacC) 
+Branchpoint-bridging protein
+Outer membrane protein assembly factor BamA
+Bacillibactin exporter
+Cytochrome c oxidase assembly factor 3, mitochondrial
+B9 domain-containing protein 1 (Endothelial precursor cells protein B9) 
+Bacchus
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3, mBACURD3 (BTB/POZ domain-containing protein KCTD10) 
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2 (BTB/POZ domain-containing protein TNFAIP1) 
+Contactin-2 (Axonal glycoprotein TAG-1)  (Axonin-1)  (Transient axonal glycoprotein 1, TAX-1) 
+Beta-1,4-glucuronyltransferase 1, EC 2.4.1.- (I-beta-1,3-N-acetylglucosaminyltransferase, iGnT)  (N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase)  (Poly-N-acetyllactosamine extension enzyme)  (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1) 
+BAG family molecular chaperone regulator 1, BAG-1 (Bcl-2-associated athanogene 1) 
+Protein AegA
+Probable acetoacetate decarboxylase, AAD, ADC, EC 4.1.1.4
+1-aminocyclopropane-1-carboxylate oxidase, ACC oxidase, Ddaco, EC 1.14.17.4 (Ethylene-forming enzyme, EFE) 
+C6 finger domain transcription factor adaR (2-acetyl-2-decarboxamidoanthrotainin biosynthesis cluster protein R) 
+Cation/acetate symporter ActP (Acetate permease)  (Acetate transporter ActP) 
+Neuronal acetylcholine receptor subunit alpha-2
+Cytoplasmic aconitate hydratase, Aconitase, EC 4.2.1.3 (Citrate hydro-lyase)  (Iron-responsive element-binding protein 1, IRE-BP 1) 
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Acyl-CoA desaturase 1, EC 1.14.19.1 (Delta(9)-desaturase 1, Delta-9 desaturase 1)  (Fatty acid desaturase 1)  (Stearoyl-CoA desaturase 1) 
+Acetyl-coenzyme A synthetase, AcCoA synthetase, Acs, EC 6.2.1.1 (Acetate--CoA ligase)  (Acyl-activating enzyme) 
+ATP-dependent helicase/nuclease subunit A, EC 3.1.-.-, EC 3.6.4.12 (ATP-dependent helicase/nuclease AddA) 
+Abhydrolase domain-containing protein ACTT2-3, EC 3.1.1.- (ACT-toxin biosynthesis protein 2-3) 
+Protein AC4 (Protein AL4) 
+Multidrug efflux pump accessory protein AcrZ (AcrAB-TolC multidrug efflux pump accessory protein AcrZ)  (Acridine resistance protein Z) 
+Disintegrin and metalloproteinase domain-containing protein 17, ADAM 17, EC 3.4.24.86 (TNF-alpha convertase)  (TNF-alpha-converting enzyme)  (CD antigen CD156b) 
+Gamma-aminobutyraldehyde dehydrogenase, EC 1.2.1.19 (1-pyrroline dehydrogenase)  (4-aminobutanal dehydrogenase, ABALDH) 
+Methylisocitrate lyase, mitochondrial, EC 4.1.3.30 (2-methylisocitrate lyase, mitochondrial) 
+Adrenocorticotropic hormone receptor, ACTH receptor, ACTH-R (Adrenocorticotropin receptor)  (Melanocortin receptor 2, MC2-R) 
+Acyl carrier protein, ACP
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Collagen alpha-1(IX) chain
+Cytochrome c oxidase assembly factor 1
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+Probable ribosylation factor GTPase-activating protein cnt6
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP synthase subunit a (ATP synthase F0 sector subunit a)  (F-ATPase subunit 6) 
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit alpha, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha)  (F-ATPase subunit alpha) 
+ATP synthase subunit alpha, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha)  (F-ATPase subunit alpha) 
+ATP synthase subunit a (F-ATPase protein 6) 
+ATP synthase protein 8 (A6L)  (F-ATPase subunit 8) 
+ATP synthase subunit beta 1, EC 7.1.2.2 (ATP synthase F1 sector subunit beta 1)  (F-ATPase subunit beta 1) 
+Sodium/potassium-transporting ATPase subunit alpha-1, Na(+)/K(+) ATPase alpha-1 subunit, EC 7.2.2.13 (Sodium pump subunit alpha-1) 
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical, EC 3.6.1.41 (Ap4A hydrolase)  (Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase)  (Diadenosine tetraphosphatase) 
+Ubiquinol oxidase 1a, mitochondrial, EC 1.10.3.11 (Alternative oxidase 1a) 
+Anhydro-N-acetylmuramic acid kinase, EC 2.7.1.170 (AnhMurNAc kinase) 
+Floral homeotic protein APETALA 1 A, BoaAP1-a (Agamous-like MADS-box protein AP1-A) 
+Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase, EC 2.4.1.256 (Alpha-1,2-glucosyltransferase ALG10-A)  (Alpha-2-glucosyltransferase ALG10)  (Asparagine-linked glycosylation protein 10)  (Dolichyl-phosphoglucose-dependent glucosyltransferase ALG10) 
+Protein arginine N-methyltransferase 7, EC 2.1.1.-
+AP-3 complex subunit beta (Adaptor-related protein complex 3 subunit beta)  (Beta-3-adaptin)  (Clathrin assembly protein complex 3 beta large chain)  (Clathrin assembly protein large beta chain) 
+Annexin A2 (Annexin II)  (Annexin-2)  (Calpactin I heavy chain)  (Calpactin-1 heavy chain)  (Chromobindin-8)  (Lipocortin II)  (Placental anticoagulant protein IV, PAP-IV)  (Protein I)  (p36) 
+APETALA2-like protein 4
+Primary amine oxidase, lung isozyme, EC 1.4.3.21 (Amine oxidase [copper-containing])  (BOLAO)  (Copper amine oxidase) 
+Anthrax toxin receptor 2
+Transcriptional activator protein AnoR
+Apovitellenin-1 (Apovitellenin I) 
+Protein ApaG
+AP-3 complex subunit delta-1 (AP-3 complex subunit delta)  (Adaptor-related protein complex 3 subunit delta-1)  (BLVPCP1)  (Bovine leukemia virus cell receptor, BLV-R)  (Delta-adaptin) 
+Apidaecin Cd 2+
+Major pollen allergen Art v 1 (Defensin-like protein 1)  (allergen Art v 1) 
+Protein arginine N-methyltransferase 1, EC 2.1.1.319
+Aspartic proteinase A3, EC 3.4.23.-
+NAD(+)--arginine ADP-ribosyltransferase, EC 2.4.2.31 (Alt protein) 
+Ammonium transporter 1 member 3 (LeAMT1;3) 
+Aprataxin-like protein, EC 3.1.11.7, EC 3.1.12.2 (Hit family protein 3) 
+Alanine racemase, EC 5.1.1.1
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, mitochondrial, EC 7.1.2.2
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+Protein B2
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phospholipase D LspiSicTox-betaIE1i, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Alpha-conotoxin GeXIVA (Alpha-O-conotoxin GeXIVA)  (Conotoxin Ge14.1)  (Conotoxin GeXIVAWT) 
+Aurein-4.3
+Attractin-like protein 1
+Cytochrome c oxidase assembly factor 3, mitochondrial
+Complement C4-A (Acidic complement C4)  (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 2)  [Cleaved into: Complement C4 beta chain; Complement C4-A alpha chain; C4a anaphylatoxin; C4b-A; C4d-A; Complement C4 gamma chain]
+Putative acetyltransferase, EC 2.3.1.-
+Anion exchange protein 3, AE 3, Anion exchanger 3 (Solute carrier family 4 member 3) 
+FMN-dependent NADH-azoreductase 1, EC 1.7.1.17 (Azo-dye reductase 1)  (FMN-dependent NADH-azo compound oxidoreductase 1) 
+Acetylxylan esterase A, EC 3.1.1.72 (AXE I)  (Acetylxylan esterase 1) 
+ATP synthase subunit O, mitochondrial (ATP synthase peripheral stalk subunit OSCP)  (Oligomycin sensitivity conferral protein, OSCP) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Ataxin-2 (Spinocerebellar ataxia type 2 protein homolog) 
+Anion exchange protein 2, AE 2, Anion exchanger 2 (Band 3-related protein, B3RP)  (Non-erythroid band 3-like protein)  (Solute carrier family 4 member 2) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit alpha, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha)  (F-ATPase subunit alpha) 
+ATP synthase subunit a (ATP synthase F0 sector subunit a)  (F-ATPase subunit 6) 
+Probable ATP synthase 24 kDa subunit, mitochondrial
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit alpha 1, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha 1)  (F-ATPase subunit alpha 1) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Beta-1,4-galactosyltransferase 3, Beta-1,4-GalTase 3, Beta4Gal-T3, b4Gal-T3, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, EC 2.4.1.38)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 3)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 3) 
+Bardet-Biedl syndrome 7 protein homolog (BBS2-like protein 1) 
+BAG family molecular chaperone regulator 3, BAG-3 (Bcl-2-associated athanogene 3)  (Bcl-2-binding protein Bis)  (Docking protein CAIR-1) 
+Collagen alpha-2(IV) chain
+Large proline-rich protein bag6 (BCL2-associated athanogene 6)  (HLA-B-associated transcript 3) 
+Mating-type locus allele B4 protein
+Collagen alpha-6(VI) chain
+Phosphopantetheine adenylyltransferase 2, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase 2)  (Pantetheine-phosphate adenylyltransferase 2) 
+Cytosolic acyl coenzyme A thioester hydrolase, EC 3.1.2.2 (Acyl-CoA thioesterase 7)  (Brain acyl-CoA hydrolase, BACH)  (CTE-IIa, CTE-II)  (Long chain acyl-CoA thioester hydrolase) 
+Complement C3 [Cleaved into: Complement C3 beta chain; C3-beta-c, C3bc; Complement C3 alpha chain; C3a anaphylatoxin; Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2]
+Branchpoint-bridging protein
+B9 domain-containing protein 1
+BTB and MATH domain-containing protein 39
+LRR receptor kinase BAK1, EC 2.7.11.1 (BRI1-associated receptor kinase 1 homolog)  (Benzothiadiazole-induced SERK1)  (Somatic embryogenesis receptor kinase 1) 
+Beta-1,4 N-acetylgalactosaminyltransferase 1, EC 2.4.1.92 ((N-acetylneuraminyl)-galactosylglucosylceramide)  (GM2/GD2 synthase)  (GalNAc-T) 
+Calcineurin B-like protein 9
+Berberine bridge enzyme-like 10, AtBBE-like 10, EC 1.1.1.-
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+BAG family molecular chaperone regulator 3 (Bcl-2-associated athanogene 3) 
+E3 ubiquitin ligase BIG BROTHER-related, AtBBR, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BIG BROTHER-related) 
+Uncharacterized protein C15orf53
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Leukocyte cell-derived chemotaxin 1 (Chondromodulin)  [Cleaved into: Chondrosurfactant protein, CH-SP; Chondromodulin-1 (Chondromodulin-I, ChM-I) ]
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Putative uncharacterized protein encoded by LINC01599
+Protein cornichon homolog 2, CNIH-2 (Cornichon family AMPA receptor auxiliary protein 2) 
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical, EC 3.6.1.41 (Ap4A hydrolase)  (Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase)  (Diadenosine tetraphosphatase) 
+Metalloprotease AprA, EC 3.4.24.-
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type II DHQase) 
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type I DHQase)  (Type I dehydroquinase, DHQ1) 
+Shikimate kinase, SK, EC 2.7.1.71
+Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase, GAT, EC 2.3.1.35 (Ornithine acetyltransferase, OATase)  (Ornithine transacetylase) ; Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGS) ]
+3-phosphoshikimate 1-carboxyvinyltransferase, EC 2.5.1.19 (5-enolpyruvylshikimate-3-phosphate synthase, EPSP synthase, EPSPS) 
+Shikimate dehydrogenase (NADP(+)), SDH, EC 1.1.1.25
+Arginine repressor
+UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase, EC 2.6.1.87 (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase, UDP-Ara4O aminotransferase)  (UDP-4-amino-4-deoxy-L-arabinose aminotransferase) 
+3-dehydroquinate synthase, DHQS, EC 4.2.3.4
+Probable E3 ubiquitin-protein ligase ARI16, EC 2.3.2.31 (ARIADNE-like protein ARI16)  (Protein ariadne homolog 16)  (RING-type E3 ubiquitin transferase ARI16) 
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Apyrase, EC 3.6.1.5 (ATP-diphosphatase, ADPase)  (ATP-diphosphohydrolase)  (Adenosine diphosphatase)  (allergen Aed a 1) 
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+RxLR effector protein Avh5 (Avirulence homolog protein 5) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+FMN-dependent NADPH-azoreductase, EC 1.7.-.- (Azobenzene reductase) 
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3, EC 2.4.1.149 (Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase, EC 2.4.1.146)  (Beta-1,3-galactosyltransferase 8, Beta-1,3-GalTase 8, Beta3Gal-T8, Beta3GalT8, b3Gal-T8)  (Beta-3-Gx-T8)  (Core 1 extending beta-1,3-N-acetylglucosaminyltransferase)  (Core1-beta3GlcNAcT)  (Transmembrane protein 3)  (UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase 8)  (UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, BGnT-3, Beta-1,3-Gn-T3, Beta-1,3-N-acetylglucosaminyltransferase 3, Beta3Gn-T3)  (UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase 8) 
+Avenin
+Bifunctional chorismate mutase/prephenate dehydratase (Chorismate mutase-prephenate dehydratase)  (P-protein)  [Includes: Chorismate mutase, CM, EC 5.4.99.5; Prephenate dehydratase, PDT, EC 4.2.1.51]
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Metal transporter CNNM4 (Ancient conserved domain-containing protein 4, mACDP4)  (Cyclin-M4) 
+Beta-2-microglobulin
+Chloroacetanilide N-alkylformylase, oxygenase component, EC 1.14.15.23 (Three-component Rieske non-heme iron oxygenase system, RHO) 
+Tyrosine aminotransferase, TAT, EC 2.6.1.5 (L-tyrosine:2-oxoglutarate aminotransferase) 
+Arylsulfatase, AS, EC 3.1.6.1 (Aryl-sulfate sulphohydrolase) 
+ATP synthase subunit b' (ATP synthase F(0) sector subunit b')  (ATPase subunit II)  (F-type ATPase subunit b', F-ATPase subunit b') 
+ATP synthase subunit b', chloroplastic (ATP synthase F(0) sector subunit b')  (ATPase subunit II) 
+Putative protease AXL1, EC 3.4.24.-
+Phospholipase D SaSicTox-betaIIB1, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Asparagine-rich zinc finger protein AZF1
+Collagen alpha-1(I) chain (Alpha-1 type I collagen) 
+FMN-dependent NADH-azoreductase 1, EC 1.7.1.17 (Azo-dye reductase 1)  (FMN-dependent NADH-azo compound oxidoreductase 1) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Activin receptor type-2A, EC 2.7.11.30 (Activin receptor type IIA, ACTR-IIA, ACTRIIA) 
+Ataxin-3 homolog, EC 3.4.19.12 (Machado-Joseph disease-like protein) 
+Aurein-2.2 [Cleaved into: Aurein-2.2.1]
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Complement C3 [Cleaved into: Complement C3 beta chain; Complement C3 alpha chain; C3a anaphylatoxin; Complement C3b alpha' chain; Complement C3f fragment]
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Tyrosine aminotransferase, TAT, EC 2.6.1.5 (L-tyrosine:2-oxoglutarate aminotransferase) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Cytochrome c oxidase assembly factor 7 homolog (Beta-lactamase hcp-like protein CG13865)  (Sel1 repeat-containing protein 1 homolog) 
+Augurin-B (Esophageal cancer-related gene 4-B protein homolog) 
+Avirulence protein ATR13 (Arabidopsis thaliana recognized protein 13) 
+Protein V2
+Allophycocyanin beta chain
+N-acetyl-gamma-glutamyl-phosphate reductase, AGPR, EC 1.2.1.38 (N-acetyl-glutamate semialdehyde dehydrogenase, NAGSA dehydrogenase) 
+Anhydro-N-acetylmuramic acid kinase, EC 2.7.1.170 (AnhMurNAc kinase) 
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+ADP-ribosylation factor-like protein 5B (ADP-ribosylation factor-like protein 8) 
+Protein apterous
+ADP-ribosylation factor-like protein 13A
+UDP-arabinose 4-epimerase 1, EC 5.1.3.5 (UDP-D-xylose 4-epimerase 1) 
+Apelin (APJ endogenous ligand)  [Cleaved into: Apelin-36; Apelin-31; Apelin-28; Apelin-13]
+3-phosphoshikimate 1-carboxyvinyltransferase, EC 2.5.1.19 (5-enolpyruvylshikimate-3-phosphate synthase, EPSP synthase, EPSPS) 
+Protein ApaG
+Arginine repressor
+Ribulokinase, EC 2.7.1.16
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+Chorismate synthase, chloroplastic, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Acetylglutamate kinase, EC 2.7.2.8 (N-acetyl-L-glutamate 5-phosphotransferase)  (NAG kinase, NAGK) 
+ADP-ribosylation factor-like protein 2 (Abnormal eversion of vulva protein 20) 
+FAD:protein FMN transferase, EC 2.7.1.180 (Flavin transferase) 
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase, EC 2.4.2.53 (Undecaprenyl-phosphate Ara4FN transferase, Ara4FN transferase) 
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase, BPG-independent PGAM, Phosphoglyceromutase, aPGAM, EC 5.4.2.12
+Anaphase-promoting complex subunit 10 (20S cyclosome/APC complex protein apc10) 
+Armadillo repeat-containing protein 3
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+FMN-dependent NADH-azoreductase 3, EC 1.7.1.17 (Azo-dye reductase 3)  (FMN-dependent NADH-azo compound oxidoreductase 3) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+FMN-dependent NADH-azoreductase 6, EC 1.7.1.17 (Azo-dye reductase 6)  (FMN-dependent NADH-azo compound oxidoreductase 6) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+ATP synthase protein I
+Phospholipase D LspiSicTox-betaIII1, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Beta-1,3-glucosyltransferase, Beta3Glc-T, EC 2.4.1.- (Beta 3-glucosyltransferase)  (Beta-3-glycosyltransferase-like) 
+Embryo-specific protein ATS3A (Protein ARABIDOPSIS THALIANA SEED 3A) 
+Avirulence protein ATR5 (Arabidopsis thaliana recognized protein 5) 
+Polyketide transferase ATR5, EC 2.3.-.- (Core atranone cluster (CAC) protein 5) 
+Brevinin-1DYa
+Unknown 31.6 kDa protein from 2D-PAGE
+Apoptosis facilitator Bcl-2-like protein 14, Bcl2-L-14 (Apoptosis regulator Bcl-G) 
+Contactin-3 (Brain-derived immunoglobulin superfamily protein 1, BIG-1)  (Plasmacytoma-associated neuronal glycoprotein) 
+FMN-dependent NADH-azoreductase 1, EC 1.7.1.17 (Azo-dye reductase 1)  (FMN-dependent NADH-azo compound oxidoreductase 1) 
+Protein cornichon homolog 3, CNIH-3 (Cornichon family AMPA receptor auxiliary protein 3) 
+Hydroxydechloroatrazine ethylaminohydrolase, Hydroxyatrazine hydrolase, EC 3.5.4.43
+Actin-2
+ATP-dependent helicase/deoxyribonuclease subunit B, EC 3.1.-.-, EC 3.6.4.12 (ATP-dependent helicase/nuclease RexB) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+Isocitrate lyase 2, ICL 2, EC 4.1.3.1 (Isocitrase 2)  (Isocitratsysase 2) 
+Acetyl-CoA decarbonylase/synthase complex subunit alpha 2, ACDS complex subunit alpha 2, EC 1.2.7.4 (ACDS complex carbon monoxide dehydrogenase subunit alpha 2, ACDS CODH subunit alpha 2) 
+Altered inheritance of mitochondria protein 11 (Genetic interactor of prohibitins 8) 
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Acetyl-coenzyme A synthetase, AcCoA synthetase, Acs, EC 6.2.1.1 (Acetate--CoA ligase)  (Acyl-activating enzyme) 
+ATP-dependent protease ATP-binding subunit-like protein
+Alcohol dehydrogenase, EC 1.1.1.1
+Acyl carrier protein, mitochondrial, ACP (NADH-ubiquinone oxidoreductase 9.6 kDa subunit) 
+Actin-depolymerizing factor 2, ADF-2, AtADF2
+Acetylcholinesterase 4, AChE 4, EC 3.1.1.7
+Angiotensin-converting enzyme inhibitor
+ATP-dependent helicase/deoxyribonuclease subunit B, EC 3.1.-.-, EC 3.6.4.12 (ATP-dependent helicase/nuclease AddB) 
+Altered inheritance of mitochondria protein 6
+Long-chain-fatty-acid--CoA ligase 5, EC 6.2.1.3 (Long-chain acyl-CoA synthetase 5, LACS 5) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+DNA/RNA-binding protein Alba
+Adenosine deaminase, EC 3.5.4.4 (Adenosine aminohydrolase) 
+Alcohol dehydrogenase-like 5, EC 1.1.1.1
+NADP-dependent alcohol dehydrogenase C, EC 1.1.1.2
+Actin-like protein 7A
+Acyl carrier protein, ACP
+DNA dC->dU-editing enzyme APOBEC-3G, EC 3.5.4.- (Deoxycytidine deaminase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Cannabinoid receptor 1, CB-R, CB1 (Brain-type cannabinoid receptor) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Protein cornichon homolog 2, CNIH-2 (Cornichon family AMPA receptor auxiliary protein 2) 
+Tungsten-containing aldehyde ferredoxin oxidoreductase cofactor-modifying protein
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+DNA damage-binding protein CMR1
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit C, plastid (ATP synthase F0 sector subunit C)  (ATPase subunit III)  (Lipid-binding protein) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP-binding cassette transporter abc2, ABC transporter abc2, EC 3.6.3.- (ATP-energized glutathione S-conjugate pump abc2)  (Glutathione S-conjugate-transporting ATPase abc2) 
+Catabolic 3-dehydroquinase, cDHQase, EC 4.2.1.10 (3-dehydroquinate dehydratase) 
+6-phosphogluconolactonase, 6-P-gluconolactonase, EC 3.1.1.31
+Phospholipase D LiSicTox-alphaIA2bii, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Loxtox i2)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Long neurotoxin OH-56
+Putative 3-methyladenine DNA glycosylase, EC 3.2.2.-
+Protein MGF 360-3L
+14-3-3 protein homolog 2, 14-3-3-2
+14-3-3-like protein GF14 upsilon (General regulatory factor 5) 
+Putative ankyrin repeat domain-containing protein 20A5 (Ankyrin repeat domain-containing protein 20A5 pseudogene) 
+ABC transporter G family member 2, ABC transporter ABCG.2, AtABCG2 (White-brown complex homolog protein 2, AtWBC2) 
+Cytotoxin 4 (CTX M3)  (Cardiotoxin V(II)4) 
+Protein MGF 360-15R
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+Acetoacetyl-CoA synthetase, EC 6.2.1.16
+ATP-binding cassette sub-family B member 8, mitochondrial
+4-trimethylaminobutyraldehyde dehydrogenase A, TMABA-DH, TMABADH, EC 1.2.1.47 (Aldehyde dehydrogenase family 9 member A1-A, EC 1.2.1.3) 
+Protein MGF 505-10R
+3-O-alpha-D-glucosyl-L-rhamnose phosphorylase, EC 2.4.1.282 (3-O-alpha-D-glucopyranosyl-L-rhamnopyranose:phosphate beta-D-glucosyltransferase) 
+Cytotoxin homolog 5V (Cardiotoxin-5V, CTX5V) 
+Protein At-4/1 (Tomato spotted wilt virus movement protein-interacting protein 4/1, At-4/1) 
+A-adding tRNA nucleotidyltransferase, A-adding TNT, EC 2.7.7.- (A-adding enzyme)  (NTSFIII) 
+ATP-binding cassette sub-family C member 9 (Sulfonylurea receptor 2) 
+Outer membrane protein assembly factor BamB
+Probable E3 ubiquitin-protein ligase BAH1-like 1, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BAH1-like) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Beauvericin cluster-specific repressor BEA4 (Beauvericin biosynthesis cluster protein 4) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+Barrier-to-autointegration factor (Breakpoint cluster region protein 1)  [Cleaved into: Barrier-to-autointegration factor, N-terminally processed]
+3-hydroxybutyrate dehydrogenase type 2, EC 1.1.1.-, EC 1.1.1.30 (R-beta-hydroxybutyrate dehydrogenase) 
+Calcineurin B-like protein 5 (SOS3-like calcium-binding protein 4) 
+Ubiquitin carboxyl-terminal hydrolase BAP1, EC 3.4.19.12 (BRCA1-associated protein 1)  (Cerebral protein 6) 
+Beta-amylase 5, AtBeta-Amy, EC 3.2.1.2 (1,4-alpha-D-glucan maltohydrolase)  (Protein REDUCED BETA AMYLASE 1) 
+(R,R)-butanediol dehydrogenase, EC 1.1.1.4 (Acetoin reductase/2,3-butanediol dehydrogenase, AR/BDH) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Probable sodium/metabolite cotransporter BASS3, chloroplastic (Bile acid-sodium symporter family protein 3) 
+Kappa-actitoxin-Avd4j, Kappa-AITX-Avd4j (Antihypertensive protein BDS-10) 
+Transcription regulator protein BACH2 (BTB and CNC homolog 2) 
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical, EC 3.6.1.41 (Ap4A hydrolase)  (Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase)  (Diadenosine tetraphosphatase) 
+N-acetyl-gamma-glutamyl-phosphate reductase, AGPR, EC 1.2.1.38 (N-acetyl-glutamate semialdehyde dehydrogenase, NAGSA dehydrogenase) 
+Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase, GAT, EC 2.3.1.35 (Ornithine acetyltransferase, OATase)  (Ornithine transacetylase) ; Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGS) ]
+Oligopeptide transport system permease protein AppB
+HTH-type transcriptional regulator ArgP
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase, FAPy deformylase, EC 3.5.1.102 (Formamide hydrolase) 
+Arginine repressor
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+Apolipoprotein A-I, Apo-AI, ApoA-I (Apolipoprotein A1)  [Cleaved into: Proapolipoprotein A-I, ProapoA-I; Truncated apolipoprotein A-I]
+Activity-regulated cytoskeleton associated protein 2, dArc2
+Probable Xaa-Pro aminopeptidase PEPP, EC 3.4.11.9 (Aminoacylproline aminopeptidase)  (Prolidase) 
+Acetylglutamate kinase, EC 2.7.2.8 (N-acetyl-L-glutamate 5-phosphotransferase)  (NAG kinase, NAGK) 
+Aquaporin Z
+Arginine decarboxylase proenzyme, ADC, ArgDC, EC 4.1.1.19 (Pyruvoyl-dependent arginine decarboxylase)  [Cleaved into: Arginine decarboxylase beta chain; Arginine decarboxylase alpha chain]
+Rho guanine nucleotide exchange factor 17 (164 kDa Rho-specific guanine-nucleotide exchange factor, p164-RhoGEF, p164RhoGEF)  (Tumor endothelial marker 4) 
+Carbamate kinase, CK, EC 2.7.2.2
+Arginine deiminase, ADI, EC 3.5.3.6 (Arginine dihydrolase, AD) 
+ADP-ribosylation factor-like protein 6 (Bardet-Biedl syndrome 3 protein) 
+Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGS, NAGS) 
+Rho guanine nucleotide exchange factor 9 (Collybistin)  (Rac/Cdc42 guanine nucleotide exchange factor 9) 
+Core atranone cluster (CAC) protein 1
+Azurin
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Atromentin synthetase, EC 2.3.1.- (Atromentin biosynthesis protein A)  (Nonribosomal peptide synthase atrA) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7, BGnT-7, Beta-1,3-Gn-T7, Beta-1,3-N-acetylglucosaminyltransferase 7, Beta3Gn-T7, EC 2.4.1.-
+HTH-type transcriptional activator CmpR
+DNA damage-binding protein CMR1
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Probable acetylxylan esterase A, EC 3.1.1.72
+Putative acetyltransferase SAV0762, EC 2.3.1.-
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phospholipase D SdSicTox-betaIIB1bxiii, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Beta-2-microglobulin
+Amino acid transporter AVT1G, AtAvt1G
+Phospholipase D LspiSicTox-betaIII2, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Ataxin-2 homolog
+Aurein-3.1 [Cleaved into: Aurein-3.1.1; Aurein-3.1.2]
+ATP synthase subunit g, mitochondrial, ATPase subunit g
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+Condensin complex subunit 1 (Chromosome condensation-related SMC-associated protein 1)  (Chromosome-associated protein D2, hCAP-D2)  (Non-SMC condensin I complex subunit D2)  (XCAP-D2 homolog) 
+Aurein-2.6
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Contactin-associated protein-like 5 (Cell recognition molecule Caspr5) 
+AUGMIN subunit 8 (QWRF motif-containing protein 8)  (ROP1 enhancer 2) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Augurin (Esophageal cancer-related gene 4 protein homolog) 
+Protein canopy homolog 2 (MIR-interacting saposin-like protein)  (Putative secreted protein Zsig9)  (Transmembrane protein 4) 
+AUGMIN subunit 2
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase, EC 1.3.1.58 (Biphenyl-2,3-dihydro-2,3-diol dehydrogenase) 
+Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma, GMP-PDE gamma, EC 3.1.4.35
+Protein V2
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+CCR4-NOT transcription complex subunit 6-like, EC 3.1.13.4
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+Aurora kinase A, EC 2.7.11.1 (Aurora 2)  (Aurora/IPL1-related kinase 1, ARK-1, Aurora-related kinase 1, hARK1)  (Breast tumor-amplified kinase)  (Serine/threonine-protein kinase 15)  (Serine/threonine-protein kinase 6)  (Serine/threonine-protein kinase aurora-A) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+Acetylxylan esterase, EC 3.1.1.72
+Truncated ankyrin repeat protein B25
+Phospholipase D LiSicTox-betaID1, PLD, EC 3.1.4.4 (Dermonecrotic toxin 5)  (LiRecDT5)  (Sphingomyelin phosphodiesterase D 5, SMD 5, SMase D 5, Sphingomyelinase D 5) 
+Probable copper-transporting ATPase SynA, EC 7.2.2.9
+ATP synthase subunit e, mitochondrial, ATPase subunit e (Translocase of the inner membrane protein 11) 
+A disintegrin and metalloproteinase with thrombospondin motifs 15, ADAM-TS 15, ADAM-TS15, ADAMTS-15, EC 3.4.24.-
+Actinoxanthin, AXN
+Ataxin-10 (Spinocerebellar ataxia type 10 protein homolog) 
+Cyclin N-terminal domain-containing protein 2
+Cytochrome c oxidase assembly factor 3 homolog, mitochondrial (Coiled-coil domain-containing protein 56) 
+Probable copper-transporting ATPase SynA, EC 7.2.2.8
+Collagen alpha-1(I) chain (Alpha-1 type I collagen) 
+Arginine vasopressin-induced protein 1, AVP-induced protein 1
+Axin (Axis inhibition protein)  (d-Axin, dAxin) 
+FMN-dependent NADH-azoreductase 1, EC 1.7.1.17 (Azo-dye reductase 1)  (FMN-dependent NADH-azo compound oxidoreductase 1) 
+Phospholipase D SpaSicTox-betaIIA3, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Protein AAR2 homolog (AAR2 splicing factor homolog) 
+Disintegrin and metalloproteinase domain-containing protein 10, ADAM 10, EC 3.4.24.81 (Kuzbanian protein homolog)  (Mammalian disintegrin-metalloprotease)  (Myelin-associated metalloproteinase)  (CD antigen CD156c) 
+Probable acetoacetate decarboxylase, AAD, ADC, EC 4.1.1.4
+14-3-3-like protein GF14 mu (General regulatory factor 9) 
+Acetate kinase 1, EC 2.7.2.1 (Acetokinase 1) 
+Alpha-2C adrenergic receptor (Alpha-2 adrenergic receptor subtype C4)  (Alpha-2C adrenoreceptor, Alpha-2C adrenoceptor, Alpha-2CAR) 
+Protein AaeX
+Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase, Mg-protoporphyrin IX monomethyl ester oxidative cyclase, EC 1.14.13.81
+Probable ubiquitination network signaling protein acrB (Acriflavine resistance protein B) 
+Phospholipase D LlSicTox-alphaIV2iii, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Class I histocompatibility antigen, Gogo-A*0101 alpha chain
+Acetate kinase, EC 2.7.2.1 (Acetokinase) 
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Acetaldehyde dehydrogenase 6, EC 1.2.1.10 (Acetaldehyde dehydrogenase [acetylating] 6) 
+Acyl carrier protein, ACP
+Putative lipoprotein AcfD homolog
+ABC transporter G family member 18 (ABC transporter ABCG.18)  (ABC transporter mdrA2) 
+Uncharacterized protein C14orf28 (Dopamine receptor-interacting protein 1) 
+Metal transporter CNNM4 (Ancient conserved domain-containing protein 4)  (Cyclin-M4) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Cornifelin
+DNA damage-binding protein cmr1
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+DNA damage-binding protein CMR1
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Argininosuccinate synthase, EC 6.3.4.5 (Citrulline--aspartate ligase) 
+Shikimate kinase 2, SK 2, EC 2.7.1.71
+Autophagy-related protein 21
+Succinylglutamate desuccinylase, EC 3.5.1.96
+Alpha-tubulin N-acetyltransferase, Alpha-TAT, TAT, EC 2.3.1.108 (Acetyltransferase mec-17 homolog) 
+Sterol 3-beta-glucosyltransferase, EC 2.4.1.173 (Autophagy-related protein 26) 
+Autophagy-related protein 17
+Ubiquitin-like-conjugating enzyme ATG3, EC 2.3.2.- (Autophagy-related protein 3, APG3-like) 
+Putative lipase atg15, EC 3.1.1.3 (Autophagy-related protein 15) 
+Acetylserotonin O-methyltransferase, EC 2.1.1.4 (Hydroxyindole O-methyltransferase, HIOMT) 
+N-succinylglutamate 5-semialdehyde dehydrogenase, EC 1.2.1.71 (Succinylglutamic semialdehyde dehydrogenase, SGSD) 
+Autophagy-related protein 33
+Ankyrin repeat and SOCS box protein 5, ASB-5
+Alkaline shock protein 23
+Aspartate--ammonia ligase, EC 6.3.1.1 (Asparagine synthetase A) 
+Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1 (Germ cell-specific ankyrin, SAM and basic leucine zipper domain-containing protein) 
+Agouti-signaling protein, ASP (Agouti switch protein) 
+Protein arv1
+N-succinylarginine dihydrolase, EC 3.5.3.23
+ATP synthase subunit g, mitochondrial, ATPase subunit g (ATP synthase membrane subunit g) 
+Autophagy-related protein 22-2
+Dehydrogenase aclE, EC 1.-.-.- (Aspirochlorine biosynthesis protein E) 
+Cation/acetate symporter ActP (Acetate permease)  (Acetate transporter ActP) 
+Actin, macronuclear
+SRY-related protein ADW4
+Adrenodoxin, mitochondrial (Adrenal ferredoxin)  (Ferredoxin-1) 
+Acyl-CoA-binding protein, ACBP (Diazepam-binding inhibitor, DBI)  (Endozepine, EP) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Actin-104
+Actin-66
+Acylphosphatase, EC 3.6.1.7 (Acylphosphate phosphohydrolase) 
+Achromolysin, EC 3.4.24.-
+Acyl carrier protein, ACP
+Actin-11
+Peroxisomal acyl-coenzyme A oxidase 2, EC 1.17.99.3 (3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestanoyl-CoA 24-hydroxylase)  (3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestanoyl-CoA oxidase)  (Trihydroxycoprostanoyl-CoA oxidase, THCA-CoA oxidase, THCCox) 
+Putative C->U-editing enzyme APOBEC-4, EC 3.5.4.- (Apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like 4) 
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Aerobic magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase, Aerobic Mg-protoporphyrin IX monomethyl ester oxidative cyclase, EC 1.14.13.81
+Actinidain, Actinidin, EC 3.4.22.14 (Allergen Act d 1)  (allergen Act d 1) 
+Collagen alpha-2(IX) chain
+ATP synthase subunit b-delta [Includes: ATP synthase subunit b (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) ; ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) ]
+Contactin-4 (Brain-derived immunoglobulin superfamily protein 2, BIG-2) 
+Metal transporter cnnm-1 (CNNM family homolog 1) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b)  [Cleaved into: ATP synthase subunit b, processed form]
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Cytochrome c oxidase assembly factor 2
+Complement component C8 gamma chain
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Complement component C8 alpha chain (Complement component 8 subunit alpha) 
+Protein canopy-1 (Protein D121) 
+Ankyrin repeat protein B4
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Beta-1,4-galactosyltransferase 3, Beta-1,4-GalTase 3, Beta4Gal-T3, b4Gal-T3, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, EC 2.4.1.38)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 3)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 3) 
+Cytosolic acyl coenzyme A thioester hydrolase, EC 3.1.2.2 (ACH1)  (ACT)  (Acyl-CoA thioesterase 7)  (Brain acyl-CoA hydrolase, BACH)  (CTE-IIa)  (CTE-IIb, CTE-II)  (LACH1)  (Long chain acyl-CoA thioester hydrolase)  (MTE-II) 
+Berberine bridge enzyme-like 25, AtBBE-like 25, EC 1.1.1.-
+Halorhodopsin, HR
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 1 (BTB/POZ domain-containing protein KCTD13) 
+BAG family molecular chaperone regulator 4, BAG-4 (Bcl-2-associated athanogene 4)  (Silencer of death domains) 
+BAG family molecular chaperone regulator 2 (Bcl-2-associated athanogene 2) 
+Protein BANP (Btg3-associated nuclear protein)  (Scaffold/matrix-associated region-1-binding protein) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Homeobox protein B-H1 (Homeobox protein BarH1) 
+Leucine-rich repeat receptor-like serine/threonine-protein kinase BAM2, EC 2.7.11.1 (Protein BARELY ANY MERISTEM 2) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Kunitz-type proteinase inhibitor BbCI
+Putative peroxiredoxin bcp, EC 1.11.1.15 (Bacterioferritin comigratory protein)  (Thioredoxin peroxidase) 
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2 (BTB/POZ domain-containing protein TNFAIP1)  (Tumor necrosis factor, alpha-induced protein 1, endothelial) 
+ATP synthase subunit a (ATP synthase F0 sector subunit a)  (F-ATPase subunit 6) 
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit alpha, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha)  (F-ATPase subunit alpha) 
+ATP synthase subunit alpha, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha)  (F-ATPase subunit alpha) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit a (F-ATPase protein 6) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP synthase subunit a (ATP synthase subunit 6)  (F-ATPase protein 6) 
+Conotoxin ar3b [Cleaved into: Conotoxin ar3a]
+ATP synthase subunit 9, mitochondrial (Lipid-binding protein) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit alpha 1, EC 7.1.2.2 (ATP synthase F1 sector subunit alpha 1)  (F-ATPase subunit alpha 1) 
+Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD, EC 3.5.1.n3
+Argininosuccinate synthase, EC 6.3.4.5 (Citrulline--aspartate ligase) 
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type II DHQase) 
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type I DHQase)  (Type I dehydroquinase, DHQ1) 
+Shikimate kinase, SK, EC 2.7.1.71
+Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE, L-Ara4N-phosphoundecaprenol flippase subunit ArnE (Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE) 
+3-phosphoshikimate 1-carboxyvinyltransferase, EC 2.5.1.19 (5-enolpyruvylshikimate-3-phosphate synthase, EPSP synthase, EPSPS) 
+Shikimate dehydrogenase (NADP(+)), SDH, EC 1.1.1.25
+Arginine repressor
+3-dehydroquinate synthase, DHQS, EC 4.2.3.4
+Beta-arrestin-2 (Arrestin beta-2) 
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+BRCA1-associated RING domain protein 1, BARD1, Ce-BRD-1, Cebrd-1, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BARD1) 
+Brain and acute leukemia cytoplasmic protein
+Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Beta-amylase 3, chloroplastic, EC 3.2.1.2 (1,4-alpha-D-glucan maltohydrolase)  (Beta-amylase 8)  (Chloroplast beta-amylase, CT-BMY) 
+Cruxhalorhodopsin-3, CHR-3
+Dioxygenase cnsJ, EC 1.14.11.- (Communesin biosynthesis cluster protein J) 
+Bcl-2 homologous antagonist/killer (Apoptosis regulator BAK)  (Bcl-2-like protein 7, Bcl2-L-7) 
+Basigin (EMMPRIN)  (CD antigen CD147) 
+Butyryl-CoA:acetate CoA-transferase, EC 2.8.3.- (Butyryl-CoA CoA-transferase) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Outer membrane protein assembly factor BamA
+Branched-chain-amino-acid aminotransferase, mitochondrial, BCAT(m), EC 2.6.1.42
+Bifunctional nuclease 2, OsBBD2, EC 3.1.-.-
+Putative bacilysin exporter BacE
+Mating-type pheromone BAP1(3)
+Protein B7
+Breast carcinoma-amplified sequence 1 homolog (Novel amplified in breast cancer 1 homolog) 
+Barbiturase 2, EC 3.5.2.1 (Barbituric acid hydrolase 2, BAH 2) 
+Halorhodopsin, HR
+Breast cancer anti-estrogen resistance protein 3 homolog
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Outer membrane protein assembly factor BamC
+Protein ATS1 (Alpha-tubulin suppressor 1) 
+Ancient ubiquitous protein 1
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+FMN-dependent NADH-azoreductase 1, EC 1.7.1.17 (Azo-dye reductase 1)  (FMN-dependent NADH-azo compound oxidoreductase 1) 
+Azurin-1 (AZN-1)  (Azurin-I) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+ATP synthase subunit O, mitochondrial (ATP synthase peripheral stalk subunit OSCP)  (Oligomycin sensitivity conferral protein, OSCP) 
+ATP synthase subunit f, mitochondrial (ATP synthase membrane subunit f) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Collagen alpha-1(X) chain
+Putative acetyltransferase MW0937, EC 2.3.1.- (GCN5-related N-acetyltransferase, GNAT) 
+Aurein-4.4
+ATP synthase protein I
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+V-type ATP synthase subunit G (V-type ATPase subunit G) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATPase family AAA domain-containing protein 3B (AAA-TOB3) 
+Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-dependent ATPase subunit beta-1) 
+Succinylglutamate desuccinylase, EC 3.5.1.96
+Sodium/potassium-transporting ATPase subunit beta-2 (Sodium/potassium-dependent ATPase subunit beta-2) 
+Ubiquitin-like protein ATG12 (Autophagy-related protein 12, APG12-like) 
+Autophagy-related protein 17
+Cysteine protease ATG4, EC 3.4.22.- (Autophagy-related protein 4) 
+Cysteine protease ATG4B, EC 3.4.22.- (Autophagy-related protein 4 homolog B) 
+Autophagy-related protein 13
+N-succinylglutamate 5-semialdehyde dehydrogenase, EC 1.2.1.71 (Succinylglutamic semialdehyde dehydrogenase, SGSD) 
+Autophagy protein 5
+Putative RING-H2 finger protein ATL61, EC 2.3.2.27 (RING-type E3 ubiquitin transferase ATL61) 
+RING-H2 finger protein ATL5, EC 2.3.2.27 (RING-type E3 ubiquitin transferase ATL5) 
+Ubiquitin-like protein ATG12 (Autophagy-related protein 12) 
+AT-rich binding protein (A/T-stretch binding protein) 
+Autophagy-related protein 30
+Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1 (Germ cell-specific ankyrin, SAM and basic leucine zipper domain-containing protein) 
+ATP synthase F(0) complex subunit B1, mitochondrial (ATP synthase peripheral stalk-membrane subunit b)  (ATP synthase subunit b, ATPase subunit b) 
+Autophagy protein 5 (APG5-like) 
+Autophagy-related protein 27
+Arginyl-tRNA--protein transferase 1, Arginyltransferase 1, R-transferase 1, EC 2.3.2.8 (Arginine-tRNA--protein transferase 1) 
+ATP synthase subunit g, mitochondrial, ATPase subunit g (ATP synthase membrane subunit g) 
+ATP synthase protein 8 (A6L)  (F-ATPase subunit 8) 
+Citramalyl-CoA lyase, mitochondrial, EC 4.1.3.25 ((3S)-malyl-CoA thioesterase, EC 3.1.2.30)  (Beta-methylmalate synthase, EC 2.3.3.-)  (Citrate lyase subunit beta-like protein, Citrate lyase beta-like)  (Malate synthase, EC 2.3.3.9) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase epsilon chain 1 (ATP synthase F1 sector epsilon subunit 1)  (F-ATPase epsilon subunit 1) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+Aurora kinase B-A, EC 2.7.11.1 (Aurora/IPL1-related kinase 2-A, AIRK2-A, XAIRK2-A)  (Serine/threonine-protein kinase 12-A)  (Serine/threonine-protein kinase aurora-B-A, xAurora-B) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Aurora kinase B-B, EC 2.7.11.1 (Aurora/IPL1-related kinase 2-B, AIRK2-B, XAIRK2-B)  (Serine/threonine-protein kinase 12-B)  (Serine/threonine-protein kinase aurora-B-B, xAurora-B-B) 
+Aurein-3.2
+Probable beta-1,3-galactosyltransferase 13, EC 2.4.1.-
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+CCR4-NOT transcription complex subunit 9 (Cell differentiation protein RQCD1 homolog, Rcd-1) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Bifunctional chorismate mutase/prephenate dehydratase (Chorismate mutase-prephenate dehydratase)  (P-protein)  [Includes: Chorismate mutase, CM, EC 5.4.99.5; Prephenate dehydratase, PDT, EC 4.2.1.51]
+ATP synthase subunit a, organellar chromatophore (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+Spindle pole component BBP1
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+OriC-binding nucleoid-associated protein (H-NS/StpA-binding protein 2)  (Transcription modulator YdgT) 
+Bardet-Biedl syndrome 1 protein (BBS2-like protein 2) 
+BAH and coiled-coil domain-containing protein 1 (Bromo adjacent homology domain-containing protein 2, BAH domain-containing protein 2) 
+Tyrosine-protein kinase BAZ1B, EC 2.7.10.2 (Bromodomain adjacent to zinc finger domain protein 1B)  (Williams syndrome transcription factor homolog) 
+Protein B1
+Alpha-1B-glycoprotein (Alpha-1-B glycoprotein)  (Plasma protein PO2-F) 
+Acetate kinase, EC 2.7.2.1 (Acetokinase) 
+Bifunctional protein Aas [Includes: 2-acylglycerophosphoethanolamine acyltransferase, EC 2.3.1.40 (2-acyl-GPE acyltransferase)  (Acyl-[acyl-carrier-protein]--phospholipid O-acyltransferase) ; Acyl-[acyl-carrier-protein] synthetase, EC 6.2.1.20 (Acyl-ACP synthetase)  (Long-chain-fatty-acid--[acyl-carrier-protein] ligase) ]
+6-phosphogluconolactonase, 6-P-gluconolactonase, EC 3.1.1.31
+Acetaldehyde dehydrogenase 1, EC 1.2.1.10 (Acetaldehyde dehydrogenase [acetylating] 1) 
+Isocitrate dehydrogenase kinase/phosphatase, IDH kinase/phosphatase, IDHK/P, EC 2.7.11.5, EC 3.1.3.-
+Aralkylamine dehydrogenase heavy chain, EC 1.4.9.2 (Aromatic amine dehydrogenase, AADH) 
+3-hydroxyisobutyrate dehydrogenase, mitochondrial, HIBADH, EC 1.1.1.31
+Adenosine receptor A2b
+Acyl-CoA-binding protein homolog, ACBP (Diazepam-binding inhibitor homolog, DBI) 
+Probable arabinan endo-1,5-alpha-L-arabinosidase B, EC 3.2.1.99 (Endo-1,5-alpha-L-arabinanase B, ABN B) 
+HLA class I histocompatibility antigen, B-13 alpha chain (MHC class I antigen B*13) 
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+AAA-ATPase At4g25835, EC 3.6.1.3
+p-hydroxybenzoic acid efflux pump subunit AaeB, pHBA efflux pump protein B
+ABC transporter B family member 9, ABC transporter ABCB.9, AtABCB9 (Multidrug resistance protein 9)  (P-glycoprotein 9) 
+AAA-ATPase At3g28520, EC 3.6.1.3
+ATP-citrate synthase, EC 2.3.3.8 (ATP-citrate (pro-S-)-lyase)  (Citrate cleavage enzyme) 
+ABC transporter A family member 5, ABC transporter ABCA.5, AtABCA5 (Putative ABC2 homolog 4) 
+ABC transporter B family member 27, ABC transporter ABCB.27, AtABCB27 (Aluminum tolerance-related ATP-binding cassette transporter)  (Antigen peptide transporter-like 2)  (Transporter associated with antigen processing-like protein 2, AtTAP2) 
+3-hydroxyisobutyrate dehydrogenase, HIBADH, EC 1.1.1.31
+20.9 kDa protein (ORF 2) 
+Acetaldehyde dehydrogenase, EC 1.2.1.10 (Acetaldehyde dehydrogenase [acetylating]) 
+Acyl carrier protein, ACP
+Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B gamma isoform (PP2A subunit B isoform B55-gamma)  (PP2A subunit B isoform PR55-gamma)  (PP2A subunit B isoform R2-gamma)  (PP2A subunit B isoform gamma) 
+Mitochondrial arginine transporter BAC1 (Mitochondrial basic amino acid carrier 1, AtMBAC1) 
+BTB and MATH domain-containing protein 43 (HIB homolog) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein)  [Includes: Phosphopantothenoylcysteine decarboxylase, PPCDC, EC 4.1.1.36 (CoaC) ; Phosphopantothenate--cysteine ligase, EC 6.3.2.5 (CoaB)  (PPC synthetase, PPCS)  (Phosphopantothenoylcysteine synthase) ]
+Betaine aldehyde dehydrogenase, chloroplastic, BADH, EC 1.2.1.8
+Chemocyanin (Basic blue protein)  (Plantacyanin) 
+Bicarbonate transport ATP-binding protein CmpD, EC 3.6.3.-
+Calmodulin-binding transcription activator 2, AtCAMTA2 (AtER66)  (Ethylene-induced calmodulin-binding protein c, EICBP.c)  (Signal-responsive protein 4, AtSR4) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Beta carbonic anhydrase 1, chloroplastic, AtbCA1, AtbetaCA1, EC 4.2.1.1 (Beta carbonate dehydratase 1)  (Protein SALICYLIC ACID-BINDING PROTEIN 3, AtSABP3) 
+UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like protein 1, BGnT-like protein 1, Beta1,3-N-acetylglucosaminyltransferase-like protein 1, Beta3Gn-T-like protein 1, Beta3GnTL1, EC 2.4.1.- (Beta-1,3-N-acetylglucosaminyltransferase 8, BGnT-8, Beta-1,3-Gn-T8, Beta3Gn-T8) 
+Collagen alpha-2(IV) chain (Lethal protein 2) 
+Multifunctional alkaline phosphatase superfamily protein PehA (Phosphodiesterase, EC 3.1.4.-)  (Phosphonate ester hydrolase, PEH, EC 3.1.-.-)  (Phosphonate monoester hydrolase, BcPMH, EC 3.1.3.-)  (Sulfuric ester hydrolase, EC 3.1.6.-) 
+Cellular nucleic acid-binding protein, CNBP (Zinc finger protein 9) 
+BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1, AtBAK1, BRI1-associated receptor kinase 1, EC 2.7.10.1, EC 2.7.11.1 (Protein ELONGATED)  (Somatic embryogenesis receptor kinase 3, AtSERK3)  (Somatic embryogenesis receptor-like kinase 3) 
+B melanoma antigen 1, B melanoma antigen (Antigen MZ2-BA)  (Cancer/testis antigen 2.1, CT2.1) 
+Beta-amyrin synthase, EC 5.4.99.39
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Chromogranin-A, CgA (Pituitary secretory protein I, SP-I)  [Cleaved into: Vasostatin-1 (Vasostatin I) ; Vasostatin-2 (Vasostatin II) ; EA-92; ES-43; Pancreastatin; SS-18; WA-8; WE-14; LF-19; Catestatin (SL21) ; AL-11; GV-19; GR-44; ER-37; GE-25; Serpinin-RRG; Serpinin; p-Glu serpinin precursor]
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP synthase subunit gamma, mitochondrial (ATP synthase F1 subunit gamma)  (F-ATPase gamma subunit) 
+Putative ATP-dependent Clp protease proteolytic subunit-like (Endopeptidase Clp-like) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Azurin
+Alpha-ketoglutarate-dependent dioxygenase cnsM, EC 1.14.11.- (Communesin biosynthesis cluster protein M) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Calcineurin B-like protein 8
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+A disintegrin and metalloproteinase with thrombospondin motifs 18, ADAM-TS 18, ADAM-TS18, ADAMTS-18, EC 3.4.24.-
+Calmodulin-binding transcription activator 1
+Aldos-2-ulose dehydratase, EC 4.2.1.110 (D-arabino-hex-2-ulose dehydratase)  (Pyranosone dehydratase) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+FAD-binding monooxygenase ausB, EC 1.14.13.- (Austinol synthesis protein B) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Contactin-6 (Neural recognition molecule NB-3, hNB-3) 
+Cytochrome c oxidase assembly factor 3 homolog, mitochondrial (Coiled-coil domain-containing protein 56) 
+Calponin-1 (Basic calponin)  (Calponin H1, smooth muscle) 
+p-cumate 2,3-dioxygenase system, ferredoxin--NAD(+) reductase component, EC 1.18.1.3
+Probable serine/threonine-protein kinase MEC1 homolog, EC 2.7.11.1 (ATR homolog)  (DNA-damage checkpoint kinase MEC1 homolog) 
+Complement C2, EC 3.4.21.43 (C3/C5 convertase)  [Cleaved into: Complement C2b fragment; Complement C2a fragment]
+Collagen alpha-1(I) chain (Alpha-1 type I collagen) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+CCR4-NOT transcription complex subunit 10
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Putative acetyltransferase SAR2635, EC 2.3.1.-
+Condensin complex subunit 2 (Barren homolog protein 1)  (Chromosome-associated protein H, hCAP-H)  (Non-SMC condensin I complex subunit H)  (XCAP-H homolog) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase subunit O, mitochondrial (ATP synthase peripheral stalk subunit OSCP)  (Oligomycin sensitivity conferral protein, OSCP) 
+Putative tyrosine-protein phosphatase auxilin, EC 3.1.3.48 (DnaJ homolog subfamily C member 6) 
+Acetylxylan esterase A, EC 3.1.1.72
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+A disintegrin and metalloproteinase with thrombospondin motifs 19, ADAM-TS 19, ADAM-TS19, ADAMTS-19, EC 3.4.24.-
+Avenin-like a4
+Metal transporter CNNM3 (Ancient conserved domain-containing protein 3, mACDP3)  (Cyclin-M3) 
+Breast carcinoma-amplified sequence 3 homolog (Protein rudhira, DRudh) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Complement C3 [Cleaved into: Complement C3 beta chain; Complement C3 alpha chain; C3a anaphylatoxin; Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2]
+Archaerhodopsin-1, AR 1
+Bardet-Biedl syndrome 5 protein homolog
+AUGMIN subunit 4
+Probable beta-1,3-galactosyltransferase 12, EC 2.4.1.-
+Beta-1,3-galactosyltransferase 1, Beta-1,3-GalTase 1, Beta3Gal-T1, Beta3GalT1, EC 2.4.1.86 (UDP-galactose:beta-N-acetyl-glucosamine-beta-1,3-galactosyltransferase 1) 
+Transaminase BacF, EC 2.6.1.- (Transaminase A) 
+1-carboxybiuret hydrolase subunit AtzG
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase, 6-OCH-CoA hydrolase, EC 3.7.1.21 (6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase) 
+Signal transduction histidine-protein kinase BarA, EC 2.7.13.3
+Dehydrin COR410 (Cold-induced COR410 protein) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Methylglutaconyl-CoA hydratase, mitochondrial, EC 4.2.1.18 (AU-specific RNA-binding enoyl-CoA hydratase, AU-binding protein/enoyl-CoA hydratase)  (Itaconyl-CoA hydratase, EC 4.2.1.56) 
+Beta-1,4-galactosyltransferase 4, Beta-1,4-GalTase 4, Beta4Gal-T4, b4Gal-T4, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Lactotriaosylceramide beta-1,4-galactosyltransferase, EC 2.4.1.275)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 4)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 4) 
+Bardet-Biedl syndrome 4 protein homolog
+Putative cytosolic acyl coenzyme A thioester hydrolase-like, EC 3.1.2.2 (Acyl-CoA thioesterase 7-like) 
+Primary amine oxidase, EC 1.4.3.21 (Copper amine oxidase)  (MAOXI) 
+Fructose-bisphosphate aldolase 1, FBP aldolase 1, FBPA 1, EC 4.1.2.13 (Fructose-1,6-bisphosphate aldolase 1) 
+Kappa-theraphotoxin-Gr2c, Kappa-TRTX-Gr2c (GsAF II, GsAFII)  (GsAf2)  (Mechanotoxin-alpha) 
+A-kinase anchor protein 6, AKAP-6 (A-kinase anchor protein 100 kDa, AKAP 100)  (Protein kinase A-anchoring protein 6, PRKA6)  (mAKAP) 
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA, EC 1.21.98.-
+D-arabinono-1,4-lactone oxidase, ALO, EC 1.1.3.37 (L-galactono-gamma-lactone oxidase) 
+Arginine/agmatine antiporter
+Protein amnionless
+Protein ApaG
+Spindle pole body component alp4 (Altered polarity protein 4) 
+Altered inheritance of mitochondria protein 36, mitochondrial (Found in mitochondria protein 39) 
+Probable Xaa-Pro aminopeptidase P, AMPP, Aminopeptidase P, EC 3.4.11.9 (Aminoacylproline aminopeptidase)  (Prolidase) 
+General amino acid permease AGP1 (Asparagine/glutamine permease) 
+Allantoicase, EC 3.5.3.4
+Aldo-keto reductase family 1 member B15, EC 1.1.1.-, EC 1.1.1.300, EC 1.1.1.54 (Estradiol 17-beta-dehydrogenase AKR1B15)  (Farnesol dehydrogenase, EC 1.1.1.216)  (Testosterone 17beta-dehydrogenase, EC 1.1.1.64) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Arsenite oxidase subunit AioA, EC 1.20.9.1 (Arsenite oxidase Mo-pterin subunit) 
+Acidic leucine-rich nuclear phosphoprotein 32 family member B
+PHD finger protein ALFIN-LIKE 9
+Altered inheritance of mitochondria protein 23, mitochondrial
+Adenosine deaminase, EC 3.5.4.4 (Adenosine aminohydrolase) 
+Fructose-bisphosphate aldolase, FBP aldolase, FBPA, EC 4.1.2.13 (Fructose-1,6-bisphosphate aldolase) 
+Probable cytosol aminopeptidase, EC 3.4.11.1 (Leucine aminopeptidase, LAP, EC 3.4.11.10)  (Leucyl aminopeptidase) 
+RNA demethylase ALKBH5, EC 1.14.11.- (Alkylated DNA repair protein alkB homolog 5)  (Alpha-ketoglutarate-dependent dioxygenase alkB homolog 5) 
+Vacuolar aminopeptidase 1, EC 3.4.11.22 (Aminopeptidase yscI)  (Leucine aminopeptidase IV, LAPIV)  (Lysosomal aminopeptidase III)  (Polypeptidase)  (Vacuolar aminopeptidase I) 
+FMN-dependent NADPH-azoreductase, EC 1.7.-.- (NADPH-dependent flavo-azoreductase)  (NADPH-flavin azoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+CCR4-NOT transcription complex subunit 10
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Condensin complex subunit 3 (Chromosome assembly protein xCAP-G)  (Chromosome-associated protein G)  (Condensin subunit CAP-G)  (Non-SMC condensin I complex subunit G) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase mitochondrial F1 complex assembly factor 1 (ATP11 homolog) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Bicarbonate transport ATP-binding protein CmpC, EC 3.6.3.-
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+Protein cornichon homolog 1, CNIH-1 (Cornichon family AMPA receptor auxiliary protein 1)  (Protein cornichon homolog)  (T-cell growth-associated molecule 77, TGAM77) 
+5-azacytidine-induced protein 2
+Axin-2 (Axin-like protein, Axil)  (Axis inhibition protein 2)  (Conductin) 
+3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase, EC 2.1.1.302 (Azinomycin biosynthesis protein B2) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+Bcl-2 homologous antagonist/killer (Apoptosis regulator BAK) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+BRCA1-associated RING domain protein 1, BARD-1, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BARD1) 
+Complement C4
+Barrier-to-autointegration factor
+Complement C5 [Cleaved into: C5a anaphylatoxin]
+Benzoate transport protein
+Bud emergence protein 4
+Basigin (CD antigen CD147) 
+Autophagy-related protein 6 (Beclin-1-like protein) 
+Acetyl-CoA-benzylalcohol acetyltransferase, CbBEAT-2, EC 2.3.1.224
+Outer membrane protein assembly factor BamB
+Protein B7
+Chromatin complexes subunit BAP18 (BPTF-associated protein of 18 kDa) 
+U-actitoxin-Bgr3b, U-AITX-Bgr3b (U-AITX-Bg1c) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Breast carcinoma-amplified sequence 1 homolog (Protein whose mRNA is enriched in synaptosomes 2, Pmes-2) 
+Outer membrane protein assembly factor BamC
+Branched-chain-amino-acid aminotransferase 3, chloroplastic, Atbcat-3, EC 2.6.1.42, EC 2.6.1.88
+ATP synthase subunit b-delta [Includes: ATP synthase subunit b (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) ; ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) ]
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Putative cyclic nucleotide-gated ion channel 13 (Cyclic nucleotide- and calmodulin-regulated ion channel 13) 
+Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein)  [Includes: Phosphopantothenoylcysteine decarboxylase, PPCDC, EC 4.1.1.36 (CoaC) ; Phosphopantothenate--cysteine ligase, EC 6.3.2.5 (CoaB)  (PPC synthetase, PPCS)  (Phosphopantothenoylcysteine synthase) ]
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase mitochondrial F1 complex assembly factor 2 (ATP12 homolog) 
+Cardiomyopathy-associated protein 5 (Dystrobrevin-binding protein 2)  (Genethonin-3)  (Myospryn)  (SPRY domain-containing protein 2)  (Tripartite motif-containing protein 76) 
+Cytochrome c oxidase assembly factor 3, mitochondrial
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Leukocyte cell-derived chemotaxin 1 (Chondromodulin)  [Cleaved into: Chondrosurfactant protein, CH-SP; Chondromodulin-1 (Chondromodulin-I, ChM-I) ]
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Protein canopy homolog 3
+Cruxrhodopsin-3, COP-3, CR-3
+H2HPP isomerase, EC 5.3.3.19 (3-((4R)-4-hydroxycyclohexa-1,5-dien-1-yl)-2-oxopropanoate isomerase)  (Bacilysin biosynthesis protein BacB)  (Bi-cupin protein) 
+Uncharacterized protein B-49
+Berberine bridge enzyme-like 14, AtBBE-like 14, EC 1.1.1.-
+Bacteriorhodopsin-I, HmBRI
+Bacitracin synthase 2, BA2 [Includes: ATP-dependent lysine adenylase, LysA (Lysine activase) ; ATP-dependent D-ornithine adenylase, D-OrnA (D-ornithine activase) ; Ornithine racemase, EC 5.1.1.12]
+Bibenzyl synthase, EC 2.3.1.-
+CCR4-NOT transcription complex subunit 9 (Cell differentiation protein RQCD1 homolog, Rcd-1) 
+Spindle pole component BBP1 (BFR1-binding protein 1) 
+E3 ubiquitin-protein ligase BIG BROTHER, EC 2.3.2.27 (Protein ENHANCER OF DA1-1)  (RING-type E3 ubiquitin transferase BIG BROTHER) 
+Branchpoint-bridging protein
+Beta-1,3-galactosyltransferase 2, Beta-1,3-GalTase 2, Beta3Gal-T2, Beta3GalT2, EC 2.4.1.86 (UDP-galactose:2-acetamido-2-deoxy-D-glucose 3beta-galactosyltransferase 2) 
+Outer membrane protein assembly factor BamA
+BAHD acyltransferase At5g47980, EC 2.3.1.-
+BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE)  (BRCA1/BRCA2-containing complex subunit 45)  (Brain and reproductive organ-expressed protein) 
+Beta-1,3-galactosyltransferase 7, EC 2.4.1.-
+Beta-1,3-galactosyltransferase 5, Beta-1,3-GalTase 5, Beta3Gal-T5, Beta3GalT5, b3Gal-T5, EC 2.4.1.- (Beta-3-Gx-T5)  (UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase 5)  (UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase 5) 
+Probable betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8 (Meiotic expression up-regulated protein 8) 
+Protein B9
+b(0,+)-type amino acid transporter 1, b(0,+)AT (Glycoprotein-associated amino acid transporter b0,+AT1)  (Solute carrier family 7 member 9) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Putative translational regulatory protein BaxL
+Collagen alpha-2(I) chain (Alpha-2 type I collagen) 
+Transcriptional regulator ATRY, EC 3.6.4.12 (ATP-dependent helicase ATRY) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Attractin
+Cytochrome c oxidase assembly factor 3, mitochondrial (Transcripts altered in meiosis protein 3) 
+Auxin-induced protein 22D (Indole-3-acetic acid-induced protein ARG13) 
+Cannabinoid receptor 1, CB-R, CB1
+Bcl-2-like protein 1, Bcl2-L-1 (Apoptosis regulator Bcl-X) 
+Cytochrome c oxidase assembly factor 3, mitochondrial
+FMN-dependent NADH-azoreductase 2, EC 1.7.1.17 (Azo-dye reductase 2)  (FMN-dependent NADH-azo compound oxidoreductase 2) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Uncharacterized protein C15orf39
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Probable cysteine protease avirulence protein AvrPpiC2, EC 3.4.22.-
+Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1, EC 2.4.1.135 (Beta-1,3-glucuronyltransferase 1)  (Glucuronosyltransferase P, GlcAT-P)  (UDP-GlcUA:glycoprotein beta-1,3-glucuronyltransferase, GlcUAT-P) 
+cGMP-gated cation channel alpha-1 (Cyclic nucleotide-gated cation channel 1)  (Cyclic nucleotide-gated channel alpha-1, CNG channel alpha-1, CNG-1, CNG1)  (Cyclic nucleotide-gated channel, photoreceptor)  (Rod photoreceptor cGMP-gated channel subunit alpha) 
+Cyclic nucleotide-gated ion channel 11 (Cyclic nucleotide- and calmodulin-regulated ion channel 11) 
+Alpha-L-arabinofuranosidase A, ABF A, Arabinosidase A, EC 3.2.1.55
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta 2, ACCase subunit beta 2, Acetyl-CoA carboxylase carboxyltransferase subunit beta 2, EC 2.1.3.15
+Isocitrate lyase, ICL, EC 4.1.3.1 (Isocitrase)  (Isocitratase) 
+A-kinase anchor protein 10, mitochondrial, AKAP-10 (Dual specificity A kinase-anchoring protein 2, D-AKAP-2)  (Protein kinase A-anchoring protein 10, PRKA10) 
+Alkyl hydroperoxide reductase subunit F, EC 1.8.1.-
+Aconitate hydratase A, ACN, Aconitase, EC 4.2.1.3 ((2R,3S)-2-methylisocitrate dehydratase)  ((2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase)  (Iron-responsive protein-like, IRP-like)  (Probable 2-methyl-cis-aconitate hydratase, EC 4.2.1.99)  (RNA-binding protein) 
+N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase, EC 6.3.2.26 (Delta-(L-alpha-aminoadipyl)-L-cysteinyl-D-valine synthetase, ACV synthetase, ACVS) 
+A-kinase anchor protein 9, AKAP-9 (A-kinase anchor protein 350 kDa, AKAP 350, hgAKAP 350)  (A-kinase anchor protein 450 kDa, AKAP 450)  (AKAP 120-like protein)  (Centrosome- and Golgi-localized PKN-associated protein, CG-NAP)  (Protein hyperion)  (Protein kinase A-anchoring protein 9, PRKA9)  (Protein yotiao) 
+Acylphosphatase, EC 3.6.1.7 (Acylphosphate phosphohydrolase) 
+Prenytransferase adrG, EC 2.5.1.- (Andrastin A biosynthesis cluster protein G) 
+Demethylsterigmatocystin 6-O-methyltransferase, EC 2.1.1.109 (Aflatoxin biosynthesis protein O)  (O-methyltransferase I, mt-I) 
+Actin-85C
+Altered inheritance of mitochondria protein 9, mitochondrial (Found in mitochondrial proteome protein 29) 
+Adenine deaminase 2, Adenase 2, Adenine aminase 2, EC 3.5.4.2
+Cytochrome P450 monooxygenase afvE, EC 1.-.-.- (Aflavarin synthesis protein E) 
+Transcription factor Adf-1 (ADH distal factor 1) 
+Protein-ADP-ribose hydrolase, EC 3.2.1.-
+Adenine deaminase, Adenase, Adenine aminase, EC 3.5.4.2
+Beta-2 adrenergic receptor (Beta-2 adrenoreceptor, Beta-2 adrenoceptor) 
+Actin, cytoplasmic type 8
+Protein argonaute 1D, OsAGO1d
+Protein ADM2 (Intermedin)  [Cleaved into: Adrenomedullin-2, AM2 (Intermedin-long, IMDL) ; Intermedin-short, IMDS]
+Classical arabinogalactan protein 1
+Altered inheritance of mitochondria protein 32
+Fructose-bisphosphate aldolase, cytoplasmic isozyme, EC 4.1.2.13
+Outer membrane protein assembly factor BamB
+Sensor protein BceS, EC 2.7.13.3
+Ubiquitin carboxyl-terminal hydrolase BAP1, EC 3.4.19.12 (BRCA1-associated protein 1) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Biotin carboxyl carrier protein of acetyl-CoA carboxylase, BCCP
+BES1/BZR1 homolog protein 4
+O-methyltransferase cnsE, EC 2.1.1.- (Communesin biosynthesis cluster protein E) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Outer membrane protein assembly factor BamD
+B9 domain-containing protein 1 (MKS1-related protein 1) 
+Beta-barrel assembly-enhancing protease, EC 3.4.-.-
+HTH-type transcriptional regulator BetI
+Protein Bel-1 (Transactivator of spumavirus, Tas)  (Transcriptional transactivator) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Beta-ketodecanoyl-[acyl-carrier-protein] synthase, EC 2.3.1.207
+Outer membrane protein assembly factor BamC
+Probable sodium/metabolite cotransporter BASS4, chloroplastic (Bile acid transporter 4)  (Bile acid-sodium symporter family protein 4) 
+Collagen alpha-2(I) chain (Alpha-2 type I collagen) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Augurin-A (Esophageal cancer-related gene 4-A protein homolog) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+N-acetyltransferase ats1, EC 2.3.1.-
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Putative acetyltransferase SAS2441, EC 2.3.1.-
+ATR-interacting protein (ATM and Rad3-related-interacting protein) 
+CTD nuclear envelope phosphatase 1, EC 3.1.3.16 (Serine/threonine-protein phosphatase dullard) 
+Protein canopy homolog 2 (MIR-interacting saposin-like protein)  (Putative secreted protein ZSIG9)  (Transmembrane protein 4) 
+Augurin (Esophageal cancer-related gene 4 protein homolog) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Contactin-associated protein 1, Caspr, Caspr1 (Neurexin IV)  (Neurexin-4)  (Paranodin)  (p190) 
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical, EC 3.6.1.41 (Ap4A hydrolase)  (Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase)  (Diadenosine tetraphosphatase) 
+Apolipoprotein A-I, Apo-AI, ApoA-I (Apolipoprotein A1)  [Cleaved into: Proapolipoprotein A-I, ProapoA-I; Truncated apolipoprotein A-I]
+Serine/threonine-protein kinase ArnS, Ser/Thr protein kinase ArnS, EC 2.7.11.1 (Archaellum regulatory network protein ArnS) 
+ADP-ribosylation factor-like protein 8b, AtARL8b (ADP-ribosylation factor-like A1D, AtARLA1D) 
+Anaphase-promoting complex subunit 7, APC7 (Cyclosome subunit 7) 
+Acyl-protein thioesterase 1, EC 3.1.2.-
+Adenine phosphoribosyltransferase, APRT, EC 2.4.2.7
+Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase, GAT, EC 2.3.1.35 (Ornithine acetyltransferase, OATase)  (Ornithine transacetylase) ; Amino-acid acetyltransferase, EC 2.3.1.1 (N-acetylglutamate synthase, AGS) ]
+3-phosphoshikimate 1-carboxyvinyltransferase, EC 2.5.1.19 (5-enolpyruvylshikimate-3-phosphate synthase, EPSP synthase, EPSPS) 
+Arginine repressor
+3-dehydroquinate synthase, DHQS, EC 4.2.3.4
+Apolipophorin-3 (Apolipophorin-III, ApoLp-III) 
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Argininosuccinate lyase, ASAL, EC 4.3.2.1 (Arginosuccinase) 
+Ubiquitin carboxyl-terminal hydrolase BAP1, EC 3.4.19.12 (BRCA1-associated protein 1) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Outer membrane protein assembly factor BamE
+Collagen alpha-2(IV) chain
+Protein BeeE
+Putative CNGA1-overlapping antisense gene protein (Anti-CNG1) 
+HTH-type transcriptional regulator BetI 2
+B-cell receptor-associated protein 29, BCR-associated protein 29, Bap29
+Cytochrome c oxidase assembly factor 5
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Outer membrane protein assembly factor BamA
+Probable sodium/metabolite cotransporter BASS3, chloroplastic (Bile acid transporter 3)  (Bile acid-sodium symporter family protein 3) 
+Cytochrome b561, DM13 and DOMON domain-containing protein At5g54830 (Protein b561A.tha1) 
+Branched-chain-amino-acid aminotransferase, mitochondrial, BCAT, EC 2.6.1.42 (Protein ECA39)  (Protein TWT1) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+OriC-binding nucleoid-associated protein (H-NS/StpA-binding protein 2)  (Transcription modulator YdgT) 
+B9 domain-containing protein 2
+Inactive beta-amylase 9 (1,4-alpha-D-glucan maltohydrolase)  (Inactive beta-amylase 3) 
+Collagen alpha-1(VI) chain
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Beta-1,4-galactosyltransferase 1, Beta-1,4-GalTase 1, Beta4Gal-T1, b4Gal-T1, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, EC 2.4.1.38)  (Lactose synthase A protein, EC 2.4.1.22)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 1)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 1) 
+Beta-1,4-galactosyltransferase 3, Beta-1,4-GalTase 3, Beta4Gal-T3, b4Gal-T3, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, EC 2.4.1.38)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 3)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 3) 
+Hydroxyproline O-galactosyltransferase GALT6, EC 2.4.1.- (Beta-1,3-galactosyltransferase 19) 
+Bifunctional chorismate mutase/prephenate dehydratase (Chorismate mutase-prephenate dehydratase)  (P-protein)  [Includes: Chorismate mutase, CM, EC 5.4.99.5; Prephenate dehydratase, PDT, EC 4.2.1.51]
+HTH-type transcriptional regulator BetI
+Mating-type locus allele B5 protein
+Bromo adjacent homology domain-containing 1 protein, BAH domain-containing protein 1
+Bardet-Biedl syndrome 2 protein homolog
+Spindle pole component BBP1 (BFR1-binding protein 1) 
+Branchpoint-bridging protein
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Basal cell adhesion molecule (Auberger B antigen)  (B-CAM cell surface glycoprotein)  (F8/G253 antigen)  (Lutheran antigen)  (Lutheran blood group glycoprotein)  (CD antigen CD239) 
+BTB and MATH domain-containing protein 39
+Berberine bridge enzyme-like 16, AtBBE-like 16, EC 1.1.1.-
+Branched-chain-amino-acid aminotransferase, mitochondrial, BCAT(m), EC 2.6.1.42
+Signal transduction histidine-protein kinase BarA, EC 2.7.13.3
+Bardet-Biedl syndrome 4 protein
+Sensory rhodopsin, SR
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Probable beta-1,3-galactosyltransferase 4, EC 2.4.1.-
+Probable E3 ubiquitin-protein ligase BAH1-like, EC 2.3.2.27 (RING finger protein 178)  (RING-type E3 ubiquitin transferase BAH1-like) 
+B-cell receptor-associated protein 31, BCR-associated protein 31, Bap31 (p28) 
+Acetate kinase, EC 2.7.2.1 (Acetokinase) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+N-glycosylase/DNA lyase (8-oxoguanine DNA glycosylase, EC 3.2.2.-)  (AGOG)  (DNA-(apurinic or apyrimidinic site) lyase, AP lyase, EC 4.2.99.18)  (Pa-AGOG) 
+Serine/threonine-protein kinase-like protein ACR4, EC 2.7.11.1 (Protein CRINKLY 4, AtCR4) 
+Actin-18 (Actin-3-sub 2) 
+Acetyl-CoA carboxylase, ACC, EC 6.4.1.2 [Includes: Biotin carboxylase, EC 6.3.4.14]
+Holo-[acyl-carrier-protein] synthase, Holo-ACP synthase, EC 2.7.8.7 (4'-phosphopantetheinyl transferase AcpS) 
+Auxin-binding protein 1, ABP1
+Probable acyl-activating enzyme 9, EC 6.2.1.- (AMP-binding protein 9, AtAMPBP9) 
+Adenosine deaminase 2, EC 3.5.4.4 (Cat eye syndrome critical region protein 1) 
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, ACCase subunit alpha, Acetyl-CoA carboxylase carboxyltransferase subunit alpha, EC 2.1.3.15
+Protein AFG1
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic, ACCase subunit beta, Acetyl-CoA carboxylase carboxyltransferase subunit beta, EC 2.1.3.15
+Isocitrate lyase, ICL, Isocitrase, Isocitratase, EC 4.1.3.1 (Methylisocitrate lyase, MICA, EC 4.1.3.30)  (Threo-D(S)-isocitrate glyoxylate-lyase) 
+Disintegrin and metalloproteinase domain-containing protein 2, ADAM 2 (Fertilin subunit beta)  (PH-30, PH30)  (PH30-beta) 
+Beta-2 adrenergic receptor (Beta-2 adrenoreceptor, Beta-2 adrenoceptor) 
+Acetyl-CoA:oxalate CoA-transferase, ACOCT, EC 2.8.3.19 (Acetyl-coenzyme A transferase)  (CoA:oxalate CoA-transferase)  (CoAT3) 
+Gamma-aminobutyraldehyde dehydrogenase, EC 1.2.1.19 (1-pyrroline dehydrogenase)  (4-aminobutanal dehydrogenase, ABALDH) 
+Protein argonaute-3
+Acyl carrier protein, ACP
+Outer membrane protein assembly factor BamB
+BRCA1-associated RING domain protein 1, BARD-1, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BARD1) 
+Maternal B9.10 protein (p30 B9.10) 
+HTH-type transcriptional regulator BenM (Ben and cat operon transcriptional regulator) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Cytochrome b561 and DOMON domain-containing protein At2g04850 (Protein b561A.tha7) 
+Beclin-1 [Cleaved into: Beclin-1-C 35 kDa; Beclin-1-C 37 kDa]
+Phosphoinositide 3-kinase adapter protein 1 (B-cell adapter for phosphoinositide 3-kinase)  (B-cell phosphoinositide 3-kinase adapter protein 1) 
+Barrier-to-autointegration factor-like protein, BAF-L (Barrier-to-autointegration factor 2) 
+Complement C4 [Cleaved into: Complement C4 beta chain; Complement C4 alpha chain; C4a anaphylatoxin; Complement C4 gamma chain]
+Condensin complex subunit 1 (Chromosome assembly protein XCAP-D2)  (Chromosome condensation-related SMC-associated protein 1)  (Chromosome-associated protein D2)  (Eg7)  (Non-SMC condensin I complex subunit D2) 
+31 kDa immunogenic protein
+HTH-type transcriptional regulator BetI
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Cytochrome c oxidase assembly factor 3, mitochondrial (Cytochrome c oxidase protein 25)  (Required for respiratory growth protein 10) 
+Outer membrane protein assembly factor BamA
+Argininosuccinate synthase, EC 6.3.4.5 (Citrulline--aspartate ligase) 
+Arginine N-succinyltransferase, AST, EC 2.3.1.109 (AOST) 
+Carboxy-S-adenosyl-L-methionine synthase, Cx-SAM synthase, EC 2.1.3.-
+Asporin (Periodontal ligament-associated protein 1, PLAP-1) 
+Arylsulfatase K, ASK, EC 3.1.6.-
+Damage-control phosphatase SPCC1393.13, EC 3.1.3.- (Sugar phosphate phosphatase SPCC1393.13) 
+Asparagine synthetase [glutamine-hydrolyzing] 2, EC 6.3.5.4 (Glutamine-dependent asparagine synthetase 2) 
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type II DHQase) 
+Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2 (Development and differentiation-enhancing factor 2)  (Paxillin-associated protein with ARF GAP activity 3, PAG3)  (Pyk2 C-terminus-associated protein, PAP) 
+SKP1-like protein 13, AtSK13
+Tether containing UBX domain for GLUT4 (Alveolar soft part sarcoma chromosomal region candidate gene 1 protein homolog) 
+Aspartate--ammonia ligase, EC 6.3.1.1 (Asparagine synthetase A) 
+Shikimate dehydrogenase (NADP(+)), SDH, EC 1.1.1.25
+Acid-sensing ion channel 1C, ASIC1-C (Acid-sensing ion channel 1.3-C)  (Amiloride-sensitive cation channel 2-C, neuronal-C)  (ZASIC1.3) 
+Arsenical pump membrane protein
+Arylphorin subunit alpha
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Autophagy-related protein 2 homolog A
+N-succinylarginine dihydrolase, EC 3.5.3.23
+Actin-related protein 2/3 complex subunit 5 (Arp2/3 complex 16 kDa subunit, p16-ARC) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b]
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+ATP synthase mitochondrial F1 complex assembly factor 1
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Clavesin-1 (Retinaldehyde-binding protein 1-like 1) 
+ATP synthase subunit C, organellar chromatophore (ATP synthase F0 sector subunit C)  (ATPase subunit III)  (Lipid-binding protein) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Mu-conotoxin-like T3.1
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP synthase gamma chain, chloroplastic (F-ATPase gamma subunit) 
+Cardiolipin synthase A, CL synthase, EC 2.7.8.-
+ATP-dependent Clp protease adapter protein ClpS 2
+ATP-dependent Clp protease adapter protein ClpS
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase gamma chain, sodium ion specific (F-ATPase gamma subunit, sodium ion specific)  (Na(+)-translocating ATPase gamma chain) 
+Protein cornichon homolog 3, CNIH-3 (Cornichon family AMPA receptor auxiliary protein 3) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+Argininosuccinate synthase, EC 6.3.4.5 (Citrulline--aspartate ligase) 
+Histone chaperone asf1 (Anti-silencing function protein 1)  (Replication-coupling assembly factor subunit ASF1, RCAF subunit ASF1)  (dASF1) 
+Arrestin domain-containing protein 5
+3-dehydroquinate dehydratase, 3-dehydroquinase, EC 4.2.1.10 (Type II DHQase) 
+Putative two-component response regulator ARR20
+Agouti-signaling protein, ASP (Agouti switch protein) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+Shikimate kinase, SK, EC 2.7.1.71
+Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE, L-Ara4N-phosphoundecaprenol flippase subunit ArnE (Undecaprenyl phosphate-aminoarabinose flippase subunit ArnE) 
+N-succinylarginine dihydrolase, EC 3.5.3.23
+3-phosphoshikimate 1-carboxyvinyltransferase, EC 2.5.1.19 (5-enolpyruvylshikimate-3-phosphate synthase, EPSP synthase, EPSPS) 
+Shikimate dehydrogenase (NADP(+)), SDH, EC 1.1.1.25
+Shikimate kinase 1, SK 1, EC 2.7.1.71
+SKP1-like protein 21, AtSK21
+Isoaspartyl peptidase/L-asparaginase, EC 3.4.19.5 (Beta-aspartyl-peptidase)  (Isoaspartyl dipeptidase)  [Cleaved into: Isoaspartyl peptidase/L-asparaginase subunit alpha; Isoaspartyl peptidase/L-asparaginase subunit beta]
+Damage-control phosphatase SPAC806.04c, EC 3.1.3.- (Sugar phosphate phosphatase SPAC806.04c) 
+Chorismate synthase, CS, EC 4.2.3.5 (5-enolpyruvylshikimate-3-phosphate phospholyase) 
+Actin-related protein 5 (Actin-like protein ARP5) 
+Collagen alpha-2(I) chain (Alpha-2 type I collagen) 
+Beta-1,4-galactosyltransferase 3, Beta-1,4-GalTase 3, Beta4Gal-T3, b4Gal-T3, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, EC 2.4.1.38)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 3)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 3) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+HTH-type transcriptional regulator BetI
+Bardet-Biedl syndrome 2 protein homolog
+UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7, BGnT-7, Beta-1,3-Gn-T7, Beta-1,3-N-acetylglucosaminyltransferase 7, Beta3Gn-T7, EC 2.4.1.-
+Cruxrhodopsin-2, COP-2, CR-2
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Barrier-to-autointegration factor A
+Beta-amyrin synthase, EC 5.4.99.39
+Beta carbonic anhydrase 6, mitochondrial, AtbCA6, AtbetaCA6, EC 4.2.1.1 (Beta carbonate dehydratase 6) 
+Cytochrome b561 and DOMON domain-containing protein At3g07570 (Protein b561A.tha11) 
+Bcl2-associated agonist of cell death, BAD (Bcl-2-binding component 6)  (Bcl-xL/Bcl-2-associated death promoter)  (Bcl2 antagonist of cell death) 
+Transcriptional activatory protein BadR (Benzoate anaerobic degradation regulator) 
+MuO-conotoxin MfVIA
+Beta carbonic anhydrase 5, chloroplastic, AtbCA5, AtbetaCA5, EC 4.2.1.1 (Beta carbonate dehydratase 5) 
+Betaine aldehyde dehydrogenase 2, OsBADH2, EC 1.2.1.8
+Putative peroxiredoxin bcp, EC 1.11.1.15 (Bacterioferritin comigratory protein)  (Thioredoxin peroxidase) 
+Outer membrane protein assembly factor BamB
+Beta-1,3-galactosyltransferase 6, Beta-1,3-GalTase 6, Beta3Gal-T6, Beta3GalT6, EC 2.4.1.134 (GAG GalTII)  (Galactosyltransferase II)  (Galactosylxylosylprotein 3-beta-galactosyltransferase)  (UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Protein B5 (Plaque-size/host range protein) 
+Outer membrane protein assembly factor BamE
+BAG family molecular chaperone regulator 2, BAG-2 (Bcl-2-associated athanogene 2) 
+Cytochrome P450 monooxygenase cnsC, EC 1.-.-.- (Communesin biosynthesis cluster protein C) 
+Beta-1,4-galactosyltransferase 7, Beta-1,4-GalTase 7, Beta4Gal-T7, b4Gal-T7, EC 2.4.1.- (Proteoglycan UDP-galactose:beta-xylose beta1,4-galactosyltransferase I)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 7)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 7)  (UDP-galactose:beta-xylose beta-1,4-galactosyltransferase)  (XGPT)  (XGalT-1)  (Xylosylprotein 4-beta-galactosyltransferase, EC 2.4.1.133)  (Xylosylprotein beta-1,4-galactosyltransferase) 
+Bacteriorhodopsin-II-like protein (Bacteriorhodopsin-II)  (Middle rhodopsin, HwMR) 
+Spindle pole component BBP1 (BFR1-binding protein 1) 
+BAHD acyltransferase At3g29680, EC 2.3.1.- (Probable anthocyanin acyltransferase) 
+Bardet-Biedl syndrome 5 protein homolog
+Outer membrane protein assembly factor BamA
+BRISC and BRCA1-A complex member 1 (Mediator of RAP80 interactions and targeting subunit of 40 kDa)  (New component of the BRCA1-A complex) 
+Probable E3 ubiquitin-protein ligase BAH1-like 1, EC 2.3.2.27 (RING-type E3 ubiquitin transferase BAH1-like 1) 
+Hydroxyproline O-galactosyltransferase GALT5, AtGALT5, EC 2.4.1.- (Beta-1,3-galactosyltransferase 18) 
+Betaine aldehyde dehydrogenase 1, chloroplastic, BADH, EC 1.2.1.8 (Aldehyde dehydrogenase family 10 member A8) 
+Bcl-2-binding component 3 (JFY-1)  (p53 up-regulated modulator of apoptosis) 
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3, hBACURD3 (BTB/POZ domain-containing protein KCTD10)  (Potassium channel tetramerization domain-containing protein 10) 
+Beta-1,4-galactosyltransferase 4, Beta-1,4-GalTase 4, Beta4Gal-T4, b4Gal-T4, EC 2.4.1.- (Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase)  (Lactotriaosylceramide beta-1,4-galactosyltransferase, EC 2.4.1.275)  (N-acetyllactosamine synthase, EC 2.4.1.90)  (Nal synthase)  (UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 4)  (UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 4) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Beta-1,4-N-acetylgalactosaminyltransferase 3, B4GalNAcT3, Beta4GalNAc-T3, Beta4GalNAcT3, EC 2.4.1.244 (Beta-1,4-N-acetylgalactosaminyltransferase III)  (N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase 2, NGalNAc-T2) 
+UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like protein 1, BGnT-like protein 1, Beta1,3-N-acetylglucosaminyltransferase-like protein 1, Beta3Gn-T-like protein 1, Beta3GnTL1, EC 2.4.1.-
+Probable sodium/metabolite cotransporter BASS1, chloroplastic (Bile acid transporter 2)  (Bile acid-sodium symporter family protein 1) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase subunit b 2 (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) 
+Calcineurin B-like protein 2
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+ATP synthase subunit b, chloroplastic (ATP synthase F(0) sector subunit b)  (ATPase subunit I) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+Probable L-cysteine desulfhydrase, chloroplastic, EC 4.4.1.- (Chloroplastic cysteine desulfurase-like protein 3)  (NIFS-like protein 3, CpNifS3) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+ATP synthase subunit b-delta [Includes: ATP synthase subunit b (ATP synthase F(0) sector subunit b 2)  (ATPase subunit I 2)  (F-type ATPase subunit b 2, F-ATPase subunit b 2) ; ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) ]
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Protein cornichon homolog 1, CNIH-1 (Cornichon family AMPA receptor auxiliary protein 1)  (Protein cornichon homolog) 
+tRNA U34 carboxymethyltransferase, EC 2.5.1.-
+ATP synthase subunit b (ATP synthase F(0) sector subunit b)  (ATPase subunit I)  (F-type ATPase subunit b, F-ATPase subunit b) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+Calponin-2 (Calponin H2, smooth muscle)  (Neutral calponin) 
+ATP synthase subunit b 1 (ATP synthase F(0) sector subunit b 1)  (ATPase subunit I 1)  (F-type ATPase subunit b 1, F-ATPase subunit b 1) 
+ATP synthase mitochondrial F1 complex assembly factor 2
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP synthase subunit delta, chloroplastic (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta) 
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit beta, mitochondrial, EC 7.1.2.2
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+CLP protease regulatory subunit CLPX1, mitochondrial
+Effector protein AvrPphD
+Phospholipase D SpeSicTox-betaIIA3ii, PLD, EC 3.1.4.4 (Dermonecrotic toxin)  (Sphingomyelin phosphodiesterase D, SMD, SMase D, Sphingomyelinase D) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+ATP synthase subunit b', chloroplastic (ATP synthase F(0) sector subunit b')  (ATPase subunit II) 
+Protein canopy homolog 3
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+FMN-dependent NADH-azoreductase 4, EC 1.7.1.17 (Azo-dye reductase 4)  (FMN-dependent NADH-azo compound oxidoreductase 4) 
+Late secretory pathway protein AVL9 (APL2 VPS1 synthetic lethal protein 9) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+ATP synthase subunit b' (ATP synthase F(0) sector subunit b')  (ATPase subunit II)  (F-type ATPase subunit b', F-ATPase subunit b') 
+BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE)  (BRCA1/BRCA2-containing complex subunit 45)  (Brain and reproductive organ-expressed protein) 
+Outer membrane protein assembly factor BamD (Competence lipoprotein ComL) 
+Basal cell adhesion molecule (B-CAM cell surface glycoprotein)  (Lutheran antigen)  (CD antigen CD239) 
+Ubiquitin carboxyl-terminal hydrolase BAP1, EC 3.4.19.12 (BRCA1-associated protein 1) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+BTB and MATH domain-containing protein 47
+Bifunctional nuclease 2, AtBBD2, EC 3.1.-.-
+Collagen alpha-3(V) chain
+UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8, BGnT-8, Beta-1,3-Gn-T8, Beta-1,3-N-acetylglucosaminyltransferase 8, Beta3Gn-T8, EC 2.4.1.-
+B-cell scaffold protein with ankyrin repeats
+BON1-associated protein 2 (Protein BON1-ASSOCIATED PROTEIN 1-LIKE) 
+Breast carcinoma-amplified sequence 1 (Amplified and overexpressed in breast cancer)  (Novel amplified in breast cancer 1) 
+B melanoma antigen 3 (Cancer/testis antigen 2.3, CT2.3) 
+Homeobox protein BarH-like 2
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Branched-chain-amino-acid aminotransferase, mitochondrial, BCAT, EC 2.6.1.42
+Acetyl-hydrolase, EC 3.1.1.-
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+A disintegrin and metalloproteinase with thrombospondin motifs 7, ADAM-TS 7, ADAM-TS7, ADAMTS-7, EC 3.4.24.- (COMPase) 
+A disintegrin and metalloproteinase with thrombospondin motifs 4, ADAM-TS 4, ADAM-TS4, ADAMTS-4, EC 3.4.24.82 (Aggrecanase-1) 
+L-Ala-D/L-amino acid epimerase, EC 5.1.1.- (L-Ala-D/L-Xxx epimerase) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+CRISPR system Cmr subunit Cmr2 (CRISPR-associated protein Cas10/Cmr2, subtype III-B) 
+Augerpeptide-s7a, Agx-s7a
+A disintegrin and metalloproteinase with thrombospondin motifs 10, ADAM-TS 10, ADAM-TS10, ADAMTS-10, EC 3.4.24.-
+Calcineurin B-like protein 1
+Putative acetyltransferase BSU40680, EC 2.3.1.- (GCN5-related N-acetyltransferase, GNAT) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (Dicyclohexylcarbodiimide-binding protein)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+B1 kinase (Serine/threonine-protein kinase 1, EC 2.7.11.1)  (Vaccinia protein kinase 1) 
+Dephospho-CoA kinase, EC 2.7.1.24 (Dephosphocoenzyme A kinase) 
+Apoptosis facilitator Bcl-2-like protein 14, Bcl2-L-14
+Cell death regulator Aven
+Metal transporter cnnm-3 (CNNM family homolog 3) 
+Axin-like protein 1
+Ataxin-3, EC 3.4.19.12 (Machado-Joseph disease protein 1 homolog) 
+Nucleobase transporter PlAzg2
+Bacteriocin aureocin A53
+FMN-dependent NADPH-azoreductase, EC 1.7.-.- (NADPH-dependent flavo-azoreductase)  (NADPH-flavin azoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+DNA (cytosine-5)-methyltransferase CMT3, EC 2.1.1.37 (Chromomethylase 3)  (Protein CHROMOMETHYLASE 3) 
+Carnitine monooxygenase oxygenase subunit, EC 1.14.13.239 (Carnitine monooxygenase alpha subunit) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+Protein cornichon homolog 2, CNIH-2 (Cornichon family AMPA receptor auxiliary protein 2)  (Cornichon-like protein) 
+RxLR effector protein Avh262 (Avirulence homolog protein 262) 
+RxLR effector protein Avr1 (Avirulence protein 1) 
+Avenin-A (Celiac immunoreactive protein 1, CIP-1)  (Gamma-4 avenin)  (Prolamin) 
+Cyclic pyranopterin monophosphate synthase, mitochondrial, EC 4.6.1.17 (Molybdenum cofactor biosynthesis enzyme CNX3)  (Molybdenum cofactor biosynthesis protein C)  (Molybdopterin biosynthesis protein CNX3) 
+Amino acid transporter AVT1A, AtAvt1A
+ATP synthase subunit b', chloroplastic (ATP synthase F(0) sector subunit b')  (ATPase subunit II) 
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2, EC 2.1.1.296 (Cap methyltransferase 2 homolog)  (Cap2 2'O-ribose methyltransferase 2 homolog, MTr2)  (FtsJ methyltransferase domain-containing protein 1 homolog)  (Protein Adrift) 
+Putative cuticle collagen 145
+Antizyme inhibitor 1, AZI (Ornithine decarboxylase antizyme inhibitor) 
+Zinc finger protein AZF1 (Zinc finger protein OZAKGYO)  (Zinc-finger protein 1) 
+CCR4-NOT transcription complex subunit 1 (CCR4-associated factor 1) 
+Calponin-1 (Basic calponin)  (Calponin H1, smooth muscle) 
+Ataxin-3 homolog, EC 3.4.19.12 (Machado-Joseph disease-like protein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Outer membrane protein assembly factor BamE
+Homeobox protein BarH-like 1b (Bar class homeoprotein Barx1b) 
+IgA FC receptor (Beta antigen, B antigen) 
+Bifunctional nuclease 1, AtBBD1, EC 3.1.-.-
+Kappa-actitoxin-Avd4h, Kappa-AITX-Avd4h (Antihypertensive protein BDS-8) 
+HTH-type transcriptional regulator BetI
+Protein canopy homolog 1
+Bacterial hemoglobin (Soluble cytochrome O) 
+Spindle pole component BBP1 (BFR1-binding protein 1) 
+Kappa-actitoxin-Avd4g, Kappa-AITX-Avd4g (Antihypertensive protein BDS-7) 
+Outer membrane protein assembly factor BamA
+Beta-amanitin proprotein [Cleaved into: Beta-amanitin]
+Inactive beta-amylase 4, chloroplastic (Inactive beta-amylase 6) 
+Collagen alpha-2(IV) chain [Cleaved into: Canstatin]
+Barley B recombinant-like protein A, BBR-like protein A (GAGA-binding transcriptional activator BBR-A) 
+Bacteriocin bavaricin-MN
+Alanine--anticapsin ligase, EC 6.3.2.49 (ATP-dependent dipeptide ligase)  (Bacilysin synthetase)  (L-Ala-L-amino acid dipeptide ligase)  (L-alanine--L-anticapsin ligase)  (L-amino acid ligase, Lal) 
+BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2 (BTB/POZ domain-containing protein TNFAIP1) 
+BAG-associated GRAM protein 1
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+Calcium-transporting ATPase 1, EC 7.2.2.10 (BACCA1) 
+Centriolin (Centrosomal protein 1)  (Centrosomal protein of 110 kDa, Cep110) 
+Benzene 1,2-dioxygenase subunit beta, EC 1.14.12.3
+Soluble interferon gamma receptor B8, B8
+1-butanol dehydrogenase (cytochrome c), BDH, EC 1.1.2.9 (NAD-independent 1-butanol dehydrogenase)  (PQQ-containing alcohol dehydrogenase)  (Quinohemoprotein) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Phosphoinositide 3-kinase adapter protein 1 (B-cell adapter for phosphoinositide 3-kinase)  (B-cell phosphoinositide 3-kinase adapter protein 1) 
+Putative peroxiredoxin MT2597, EC 1.11.1.15 (Bacterioferritin comigratory protein)  (Thioredoxin peroxidase) 
+Beta-catenin/armadillo-related protein 1 (Protruding vulva protein 1)  (Suppressor of polyray 1) 
+Beclin 1-associated autophagy-related key regulator, Barkor (Autophagy-related protein 14-like protein, Atg14L) 
+Condensin complex subunit 1 (XCAP-D2 homolog) 
+Bud emergence protein 1 (Suppressor of RHO3 protein 1) 
+Beta-agarase, EC 3.2.1.81 (Glycosyl hydrolase 16 family protein A, GH16A) 
+HTH-type transcriptional regulator BetI
+HTH-type transcriptional repressor BdcR
+Oxygen-dependent choline dehydrogenase, CDH, CHD, EC 1.1.99.1 (Betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8) 
+NAD/NADP-dependent betaine aldehyde dehydrogenase, BADH, EC 1.2.1.8
+Putative peroxiredoxin bcp, EC 1.11.1.15 (Bacterioferritin comigratory protein homolog)  (Thioredoxin peroxidase) 
+Short-chain dehydrogenase/reductase ATR10, EC 1.-.-.- (Core atranone cluster (CAC) protein 10) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+Azurin
+Aurofusarin biosynthesis regulatory protein aurR1 (Aurofusarin biosynthesis cluster protein R1)  (Gibberella pigment protein 2) 
+ATP synthase subunit a, chloroplastic (ATP synthase F0 sector subunit a)  (F-ATPase subunit IV) 
+Pantothenate kinase, EC 2.7.1.33 (Pantothenic acid kinase) 
+Bifunctional chorismate mutase/prephenate dehydratase (Chorismate mutase-prephenate dehydratase)  (P-protein)  [Includes: Chorismate mutase, CM, EC 5.4.99.5; Prephenate dehydratase, PDT, EC 4.2.1.51]
+Probable acetylxylan esterase A, EC 3.1.1.72
+Auxilin-related protein 1 (Auxilin-like protein 1) 
+Avenin-like a2
+FMN-dependent NADH-azoreductase 4, EC 1.7.1.17 (Azo-dye reductase 4)  (FMN-dependent NADH-azo compound oxidoreductase 4) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Putative acetyltransferase SAV1054, EC 2.3.1.- (GCN5-related N-acetyltransferase, GNAT) 
+Ancient ubiquitous protein 1
+Vacuolar amino acid transporter 2
+FMN-dependent NADH-azoreductase, EC 1.7.1.17 (Azo-dye reductase)  (FMN-dependent NADH-azo compound oxidoreductase) 
+Phosphopantetheine adenylyltransferase, EC 2.7.7.3 (Dephospho-CoA pyrophosphorylase)  (Pantetheine-phosphate adenylyltransferase, PPAT) 
+RxLR effector protein Avh6 (Avirulence homolog protein 6)  (Avirulence protein 1d) 
+Transcriptional regulator ATRX, EC 3.6.4.12 (ATP-dependent helicase ATRX)  (HP1 alpha-interacting protein)  (HP1-BP38 protein)  (Heterochromatin protein 2)  (X-linked nuclear protein) 
+ATP synthase subunit c (ATP synthase F(0) sector subunit c)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+Beta-2-microglobulin
+Ataxin-7 (Spinocerebellar ataxia type 7 protein) 
+Avirulence protein B
+Amino acid transporter AVT6B, AtAvt6B
+Cytochrome c oxidase assembly factor 5
+ATP synthase subunit b' (ATP synthase F(0) sector subunit b')  (ATPase subunit II)  (F-type ATPase subunit b', F-ATPase subunit b') 
+Short-chain dehydrogenase/reductase ATR7, EC 1.-.-.- (Core atranone cluster (CAC) protein 7) 
+Baeyer-Villiger monooxygenase ATR8, EC 1.14.13.- (Core atranone cluster (CAC) protein 8) 
+Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase B, EC 2.4.1.206 (Lactotriaosylceramide synthase B, Lc(3)Cer synthase B, Lc3 synthase B)  (UDP-GlcNAc:beta-Gal beta-1,3-N-acetylglucosaminyltransferase 5B, BGnT-5B, Beta-1,3-Gn-T5B, Beta-1,3-N-acetylglucosaminyltransferase 5B, Beta3Gn-T5B) 
+Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase I, EC 2.4.1.135 (Beta-1,3-glucuronyltransferase I)  (Glucuronosyltransferase I, DmGlcAT-I)  (UDP-GlcUA:Gal beta-1,3-Gal-R glucuronyltransferase, GlcUAT-I) 
+Antizyme inhibitor 1, AZI, AZI1 (Ornithine decarboxylase antizyme inhibitor) 
+Activin receptor type-2B, EC 2.7.11.30 (Activin receptor type IIB, ACTR-IIB) 
+Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase A, EC 2.4.1.206 (Lactotriaosylceramide synthase A, Lc(3)Cer synthase A, Lc3 synthase A)  (UDP-GlcNAc:beta-Gal beta-1,3-N-acetylglucosaminyltransferase 5A, BGnT-5A, Beta-1,3-Gn-T5A, Beta-1,3-N-acetylglucosaminyltransferase 5A, Beta3Gn-T5A) 
+Bcl-2-like protein 10, Bcl2-L-10 (Anti-apoptotic protein Boo)  (Apoptosis regulator Bcl-B)  (Bcl-2 homolog Diva) 
+Pyrophosphate-energized vacuolar membrane proton pump, EC 7.1.3.1 (Pyrophosphate-energized inorganic pyrophosphatase, H(+)-PPase) 
+ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c)  (ATPase subunit III)  (F-type ATPase subunit c, F-ATPase subunit c)  (Lipid-binding protein) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase subunit gamma, mitochondrial (F-ATPase gamma subunit) 
+Cardiolipin synthase A, CL synthase, EC 2.7.8.-
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit gamma, mitochondrial (ATP synthase F1 subunit gamma)  (F-ATPase gamma subunit) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
+ATP synthase epsilon chain 2 (ATP synthase F1 sector epsilon subunit 2)  (F-ATPase epsilon subunit 2) 
+ATP synthase subunit beta, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase subunit beta, plastid, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase epsilon chain, chloroplastic (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)  (F-ATPase epsilon subunit) 
+ATP-dependent Clp protease ATP-binding subunit ClpX
+ATP-dependent Clp protease adapter protein ClpS
+ATP-dependent Clp protease proteolytic subunit, EC 3.4.21.92 (Endopeptidase Clp) 
+ATP-dependent protease subunit ClpQ, EC 3.4.21.-
+ATP synthase subunit delta (ATP synthase F(1) sector subunit delta)  (F-type ATPase subunit delta, F-ATPase subunit delta) 
+ATP synthase subunit beta, chloroplastic, EC 7.1.2.2 (ATP synthase F1 sector subunit beta)  (F-ATPase subunit beta) 
+ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)  (F-ATPase gamma subunit) 
